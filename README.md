@@ -6,4 +6,4 @@ My research focuses on the qualitative study of spoken discourse (conversation a
 
 Most of my work has been conducted on Chinese (Mandarin and Cantonese). 
 
-I have also published a corpus of spoken Chinese (MYCanCor) as well as several tools in Computational phonetics and Chinese language processing (Cause-Chi).
+I have also published a corpus of spoken Chinese (MYCanCor) as well as several tools in Computational phonetics and Chinese language processing (Cause-Chi, MV parser).
