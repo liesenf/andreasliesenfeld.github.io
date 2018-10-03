@@ -4,4 +4,6 @@ I am currently a PhD candidate at Nanyang Technological University working in th
 
 My research focuses on the qualitative study of spoken discourse (conversation analysis; pragmatics), the quantitative study of spoken discourse (corpus linguistics), and the development of tools that model aspects of talk-in-interaction (computational pragmatics, dialog systems).
 
-Most of my work has been conducted on Chinese (Mandarin and Cantonese), English and German. I have also published a corpus of spoken Cantonese as well as several tools in Computational phonetics and Chinese language processing.
+Most of my work has been conducted on Chinese (Mandarin and Cantonese). 
+
+I have also published a corpus of spoken Cantonese as well as several tools in Computational phonetics and Chinese language processing.
