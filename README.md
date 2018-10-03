@@ -1,2 +1,2 @@
 # andreasliesenfeld.github.io
-git page of Andreas Liesenfeld
+subheadline git page of Andreas Liesenfeld
