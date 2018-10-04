@@ -43,6 +43,14 @@
         <p class="view"><a href="https://twitter.com/a_liesenfeld">Find me on Twitter</a></p>
         {% endif %}
 
+        <!––item googlescholar––>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Find me on Google scholar <small>{{ https://twitter.com/a_liesenfeld }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Find me on Google scholar</a></p>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
