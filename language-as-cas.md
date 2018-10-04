@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## The Language as Complex Adaptive Network (CAS) paradigm
 
 _yay_
 
