@@ -4,13 +4,22 @@ layout: default
 
 ## Modeling Action Formation
 
-Modeling online action formation
 
-Construction grammars and conversation
+## Speech act theory-based descriptions of action formation:
 
-grammar induction
+Segmented discourse relation theory (SDRT)
+Type Theory with Records(TTR)-based models (e.g. Ginzburg)
 
 
-_yay_
+## Framenets and Constructicons:
+
+CxG-based grammar induction
+
+## Models of Lexical Access
+
+1st gen: FOBS 
+2nd gen: TRACE, COHORT
+3rd gen: SRN, DCM, RNN-based models
+
 
 [back](./)
