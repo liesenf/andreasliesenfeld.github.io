@@ -8,4 +8,4 @@ Most of my work has been on Chinese (Mandarin and Cantonese).
 
 I have also published a corpus of spoken Chinese (MYCanCor), several tools in computational phonetics and Chinese language processing (Cause-Chi, MV parser) and two tutorials (Conversation analytic transcription in LaTeX, Multilayed annotation with Praat).
 
-<font color="red">PS: I recently moved this blog from www.andreasliesenfeld.com to github and it'll take some time to copy all the content over from wordpress to jekyll.</font>
+<font color="red">&#9830; &#9830; &#9830; I recently moved this blog from www.andreasliesenfeld.com to github and it'll take some time to copy all the content over from wordpress to jekyll. &#9830; &#9830; &#9830;</font>
