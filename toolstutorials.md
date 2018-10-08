@@ -8,17 +8,17 @@ layout: default
 
 2. Pycantonese http://pycantonese.org/
 
-## Tutorials:
+### Tutorials:
 
 1. Conversation analytic transcriptions in LaTeX
 
 2. Multilayer annotation in Praat
 
-## Useful links:
+### Useful links:
 
 
 
-# Pragmatic Theory:
+## Pragmatic Theory:
 
 What's wrong with speech act theory
 https://link.springer.com/article/10.1007%2FBF01305842
@@ -26,19 +26,19 @@ https://link.springer.com/article/10.1007%2FBF01305842
 Problems of Speech Act Theory From an Applied Perspective
 https://www.researchgate.net/publication/227821140_Problems_of_Speech_Act_Theory_From_an_Applied_Perspective
 
-# Computational Pragmatics:
+### Computational Pragmatics:
 
 Cohort model of lexcial access
 https://en.wikipedia.org/wiki/Cohort_model
 
 
-# Complex Adaptive Networks:
+### Complex Adaptive Networks:
 
 Book on languages as CAS
 https://www.amazon.com/Language-as-Complex-Adaptive-System/dp/144433400X
 
 
-# Machine Learning:
+### Machine Learning:
 
 Colah's blog on machine learning
 http://colah.github.io/
@@ -47,7 +47,7 @@ Choosing the right estimator
 http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 
-# Interactional Linguistics:
+### Interactional Linguistics:
 
 EMCA Wiki:
 http://emcawiki.net/Main_Page
