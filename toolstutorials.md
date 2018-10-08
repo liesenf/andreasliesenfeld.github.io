@@ -6,7 +6,7 @@ layout: default
 
 1. MV parser (link)
 
-2 Pycantonese
+2. Pycantonese http://pycantonese.org/
 
 ## Tutorials:
 
