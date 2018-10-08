@@ -7,7 +7,7 @@ layout: default
 
 ## Speech act theory-based descriptions of action formation:
 
-Segmented discourse relation theory (SDRT), Type Theory with Records(TTR)-based models (e.g. Ginzburg)
+Segmented discourse relation theory (SDRT), Type Theory with Records(TTR)-based models (e.g. Ginzburg's conversation-oriented semantics or KoS (with is not an acronym))
 
 
 ## Framenets and Constructicons:
