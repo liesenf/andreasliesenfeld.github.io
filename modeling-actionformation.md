@@ -7,14 +7,14 @@ layout: default
 
 ## Speech act theory-based descriptions of action formation:
 
-Segmented discourse relation theory (SDRT)
-Type Theory with Records(TTR)-based models (e.g. Ginzburg)
+Segmented discourse relation theory (SDRT), Type Theory with Records(TTR)-based models (e.g. Ginzburg)
 
 
 ## Framenets and Constructicons:
 
 Framenets:
- <a href="https://framenet.icsi.berkeley.edu/fndrupal/">Berkeley FrameNet, the mother of all framenets</a> 
+ <a href="https://framenet.icsi.berkeley.edu/fndrupal/">Berkeley FrameNet</a>, the mother of all framenets
+ 
  <a href="https://framenet.icsi.berkeley.edu/fndrupal/framenets_in_other_languages">FrameNets In Other Languages</a> 
  
 Chinese:
@@ -32,9 +32,12 @@ Chinese:
 
 ## Models of Lexical Access
 
-1st gen: FOBS \
-2nd gen: TRACE, COHORT \
-3rd gen: SRN, DCM, RNN-based models \
+1st gen: FOBS 
+
+2nd gen: TRACE, COHORT 
+
+3rd gen: SRN, DCM, RNN-based models 
+
 
 
 [back](./)
