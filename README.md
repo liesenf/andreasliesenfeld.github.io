@@ -7,6 +7,8 @@ I am currently a PhD candidate in linguistics at Nanyang Technological Universit
 
 <b>Email:</b> lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
+<br />
+
 <b>Research interest:</b> <br>
 
 My research focuses on the qualitative study of spoken discourse (interactional linguistics), the quantitative study of spoken discourse (corpus linguistics, grammar induction), and the development of tools that model aspects of talk-in-interaction (computational pragmatics, dialog systems).<br />
