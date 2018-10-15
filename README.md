@@ -29,7 +29,7 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <br />
 
-For the published video corpus of spoken Chinese see also: (<a href="https://liesenf.github.io/mycancor">MYCanCor</a>)><br />
+For the published video corpus of spoken Chinese see also: (<a href="https://liesenf.github.io/mycancor">MYCanCor</a>)<br />
 
 <br />
 
@@ -38,7 +38,7 @@ For the published video corpus of spoken Chinese see also: (<a href="https://lie
 Cause-Chi (Tagger for causal discourse markers in spoken Chinese)<br>
 MV parser (Augument structure tagger for Chinese) <br>
 
-><br />
+<br />
 
 <b>Tutorials:</b><br>
 
