@@ -29,7 +29,7 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <br />
 
-For the published video corpus of spoken Chinese see also: (<a href="https://liesenf.github.io/mycancor">MYCanCor</a>)<br />
+For the published video corpus of spoken Chinese see also: <a href="https://liesenf.github.io/mycancor">MYCanCor</a><br />
 
 <br />
 
