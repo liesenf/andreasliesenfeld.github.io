@@ -1,4 +1,4 @@
-<p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 3px">
+<p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;margin-bottom: 20px">
 
 I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the qualitative and quantitative study of talk-in-interaction as well as in developing computational tools that model various dimensions of it.<br />
 
