@@ -32,6 +32,10 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <br />
 
+<a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">Full CV</a>
+
+</b> <br>
+
 <b>Publications:</b> <br>
 <a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
 
