@@ -4,6 +4,7 @@ layout: default
 
 ## Modeling Action Formation
 
+intersubjective formation of social action in the turn-taking system 
 
 ## Speech act theory-based descriptions of action formation:
 
