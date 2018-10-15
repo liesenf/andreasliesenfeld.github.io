@@ -1,6 +1,8 @@
 Welcome to the personal homepage of Andreas Liesenfeld.
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the qualitative and quantitative study of talk-in-interaction as well as in developing computational tools that model various dimensions of it.
+I am a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the qualitative and quantitative study of talk-in-interaction as well as in developing computational tools that model various dimensions of it.
+
+<p><img src="pig.jpg" alt="Picture" style="float:left;width:42px;height:42px;">
 
 My research focuses on the qualitative study of spoken discourse (interactional linguistics; speech act theory), the quantitative study of spoken discourse (corpus linguistics, grammar induction), and the development of tools that model aspects of talk-in-interaction (computational pragmatics, dialog systems).
 
