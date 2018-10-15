@@ -24,13 +24,21 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <b>Publications:</b><br>
 
-<a href=" https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
+<a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
 
 <br />
 
+I have published a corpus of spoken Chinese <a href="https://liesenf.github.io/mycancor">MYCanCor</a>),
+
 <b>Software:</b><br>
 
-I have also published a corpus of spoken Chinese (MYCanCor), several tools in computational phonetics and Chinese language processing (Cause-Chi, MV parser) and two tutorials (Conversation analytic transcription in LaTeX, Multilayed annotation with Praat).<br />
+Cause-Chi (Tagger for causal discourse markers in spoken Chinese)<br>
+MV parser (Augument structure tagger for Chinese) 
+
+<b>Tutorials:</b><br>
+
+Conversation analytic transcription in LaTeX<br>
+Multilayed phonetic annotation with Praat<br>
 
 <br />
 
