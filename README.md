@@ -1,4 +1,4 @@
-<font color="red">&#9733; Upcoming: Looking forward to presenting at the 2018 Australasian Institute for Ethnomethodology and Conversation Analysis in Macau, 28 Nov. &#9733;</font><br />
+<font color="orange">&#9733; Upcoming: Looking forward to presenting at the 2018 Australasian Institute for Ethnomethodology and Conversation Analysis in Macau, 28 Nov. &#9733;</font><br />
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
