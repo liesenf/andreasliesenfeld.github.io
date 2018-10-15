@@ -26,7 +26,7 @@ Most of my work has been on Chinese (Mandarin and Cantonese).<br />
 
 
 PhD student in linguistics, Nanyang Technological University, Singapore<br>
-Visiting fellow, CRC991:frame semantics, Düsseldorf University, Germany<br>
+Visiting fellow, CRC991 frame semantics, Düsseldorf University, Germany<br>
 Data scientist, Industry, Berlin, Germany<br>
 Master, School of Social Sciences, University of Hong Kong, SAR of China<br>
 Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br />
@@ -40,7 +40,7 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <br />
 
-For the published video corpus of spoken Chinese see also: <a href="https://liesenf.github.io/mycancor">MYCanCor</a><br />
+For the video corpus of spoken Chinese see also: <a href="https://liesenf.github.io/mycancor">MYCanCor</a><br />
 
 <br />
 
