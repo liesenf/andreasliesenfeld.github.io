@@ -29,14 +29,12 @@ PhD student in linguistics, Nanyang Technological University, Singapore<br>
 Data scientist, Industry, Berlin, Germany<br>
 Master, School of Social Sciences, University of Hong Kong, SAR of China<br>
 Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br />
+<a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">Get full CV</a><br>
 
 <br />
 
-<a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">Full CV</a>
+<b>Publications:</b> <br />
 
-</b> <br>
-
-<b>Publications:</b> <br>
 <a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
 
 <br />
