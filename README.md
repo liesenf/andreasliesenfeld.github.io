@@ -43,15 +43,15 @@ For the published video corpus of spoken Chinese see also: <a href="https://lies
 
 <b>Software:</b><br>
 
-Cause-Chi (Tagger for causal discourse markers in spoken Chinese)<br>
-MV parser (Augument structure tagger for Chinese) <br>
+<a href="https://liesenf.github.io/toolstutorials">Cause Chi</a> (Tagger for causal discourse markers in spoken Chinese)<br>
+<a href="https://liesenf.github.io/toolstutorials">MV parser</a> (Augument structure tagger for Chinese) <br>
 
 <br />
 
 <b>Tutorials:</b><br>
 
-Conversation analytic transcription in LaTeX<br>
-Multilayed phonetic annotation with Praat<br>
+<a href="https://liesenf.github.io/toolstutorials">Conversation analytic transcription in LaTeX</a><br>
+<a href="https://liesenf.github.io/toolstutorials">Multilayed phonetic annotation with Praat</a><br>
 
 <br />
 
