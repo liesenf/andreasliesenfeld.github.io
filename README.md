@@ -8,6 +8,13 @@ My research focuses on the qualitative study of spoken discourse (interactional 
 
 Most of my work has been on Chinese (Mandarin and Cantonese). 
 
+Experiences:
+
+PhD student in linguistics, School of Humantites and Social Sciences, Nanyang Technological University, Singapore<br>
+Data Scientist, Industry, Berlin<br>
+Master, School of Social Sciences, Hong Kong University, China<br>
+Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany
+
 I have also published a corpus of spoken Chinese (MYCanCor), several tools in computational phonetics and Chinese language processing (Cause-Chi, MV parser) and two tutorials (Conversation analytic transcription in LaTeX, Multilayed annotation with Praat).
 
 <font color="red">&#9830; &#9830; &#9830; I recently moved this blog from www.andreasliesenfeld.com to github and it'll take some time to copy all the content over from wordpress to jekyll. &#9830; &#9830; &#9830;</font>
