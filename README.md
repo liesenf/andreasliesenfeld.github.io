@@ -5,7 +5,8 @@ I am currently a PhD candidate in linguistics at Nanyang Technological Universit
 <br />
 <br />
 
-<b>Email:</b> lies0002[AT]ntu[DOT]edu[DOT]sg<br>
+<b>Email:</b> <br> 
+lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
 <br />
 
@@ -29,7 +30,8 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <br />
 
-<b>Publications:</b> <a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
+<b>Publications:</b> <br>
+<a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
 
 <br />
 
