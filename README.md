@@ -18,7 +18,7 @@ Most of my work has been on Chinese (Mandarin and Cantonese).<br />
 
 PhD student in linguistics, Nanyang Technological University, Singapore<br>
 Data Scientist, Industry, Berlin<br>
-Master, School of Social Sciences, Hong Kong University, China<br>
+Master, School of Social Sciences, University of Hong Kong, China<br>
 Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br />
 
 <br />
