@@ -11,7 +11,7 @@ I am currently a PhD candidate in linguistics at Nanyang Technological Universit
 
 <b>Research interest:</b> <br>
 
-My research focuses on the qualitative study of spoken discourse (interactional linguistics), the quantitative study of spoken discourse (corpus linguistics, grammar induction), and the development of tools that model aspects of talk-in-interaction (computational pragmatics, dialog systems).<br />
+My research focuses on the qualitative study of spoken discourse (interactional linguistics, phonetics), the quantitative study of spoken discourse (corpus linguistics, grammar induction), and the development of tools that model aspects of talk-in-interaction (computational pragmatics, dialog systems).<br />
 
 <br />
 
