@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the qualitative and quantitative study of spoken conversation as well as in developing computational tools that model various dimensions of it.<br />
+I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the qualitative and quantitative study of social interaction as well as in developing computational tools that model various dimensions of it.<br />
 
 <br />
 <br />
@@ -14,7 +14,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
 <b>Research interest:</b> <br>
 
-My research focuses on the qualitative study of spoken discourse (interactional linguistics, phonetics), the quantitative study of spoken discourse (corpus linguistics, grammar induction), and the development of tools that model aspects of talk-in-interaction (computational pragmatics, conversational agents).<br />
+My main research interest is the study of social interaction, combining qualitative and exploratory studies of talk-in-interaction (interactional linguistics, phonetics) and the quantitative study of corpora of spoken discourse (grammar induction). In my early-career research I have conducted lingustic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I also work on developing formal representations of building blocks of talk-in-interaction and the development of tools that model aspects of it (computational pragmatics, conversational agents).<br />
 
 <br />
 
