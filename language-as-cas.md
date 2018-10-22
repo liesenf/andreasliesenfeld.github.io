@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The Language as Complex Adaptive System (CAS) paradigm
+## The Language as Complex Adaptive Systems (CAS) paradigm
 
 Introductory readings on Complex Adaptive Systems and their relation to talk-in-interaction:
 
