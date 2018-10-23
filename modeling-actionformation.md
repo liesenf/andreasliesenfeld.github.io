@@ -6,6 +6,10 @@ layout: default
 
 intersubjective formation of social action in the turn-taking system 
 
+## How to (not) formalize talk-in-interaction
+
+formal representations of talk
+
 ## Speech act theory-based descriptions of action formation:
 
 Segmented discourse relation theory (SDRT), Type Theory with Records(TTR)-based models (e.g. Ginzburg's conversation-oriented semantics or KoS (with is not an acronym))
