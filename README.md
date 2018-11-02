@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the qualitative and quantitative study of social interaction as well as in developing computational tools that model various dimensions of it.<br />
+I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in building formal models of mundane conversation. However, I have found this task to be so difficult, that my work up to this point has been more of a critique of existing formal models. <br />
 
 <br />
 <br />
