@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in building formal models of mundane conversation. However, I have found this task to be so difficult, that my work up to this point has been more of a critique of existing formal models. <br />
+I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in building formal models of mundane conversation. However, I have found this task to be so difficult, that my work up to this point can be described as critical engagement with existing formal models. <br />
 
 <br />
 <br />
