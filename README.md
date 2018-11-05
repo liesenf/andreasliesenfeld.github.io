@@ -34,7 +34,7 @@ Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br /
 
 <br />
 
-<b>Publications:</b> <br />
+<b>Publication:</b> <br />
 
 <a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
 
