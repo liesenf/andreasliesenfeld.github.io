@@ -22,7 +22,7 @@ Most of my work has been on Chinese (Mandarin and Cantonese).<br />
 
 <br />
 
-<b>Experiences:</b> <br>
+<b>Experience:</b> <br>
 
 
 PhD student in linguistics, Nanyang Technological University, Singapore<br>
