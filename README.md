@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the study of talk and interaction with a focus on understanding the interplay between 'linguistic' structures and action formation in mundane conversation. I am also interesting in building tools for open-domain (nontask-oriented) dialog systems. I have worked on the annotation and typologies of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (ASR, SLU) and spoken language generation (SLG, TTS). I am also interested in the development of conversational formal grammars. However, I have found this task to be so difficult, that my work in the area has to date been more of a critical engagement with existing formal models. <br />
+I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the study of talk and interaction with a focus on understanding the interplay between 'linguistic' structures and action formation in conversation. I am also interested in building tools for open-domain (nontask-oriented) dialog systems. I have worked on annotations of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (ASR, SLU) and spoken language generation (SLG, TTS). I am also interested in the development of conversational formal grammars. However, I have found this task to be so difficult, that my work in the area has to date been more of a critical engagement with existing formal models. <br />
 
 <br />
 <br />
