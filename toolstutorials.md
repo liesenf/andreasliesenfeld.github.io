@@ -16,6 +16,7 @@ layout: default
 
 ### Useful links:
 
+http://praatscripting.lingphon.net
 
 
 ## Pragmatic Theory:
