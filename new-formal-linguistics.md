@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## New formal linguistics
+# New formal linguistics
 
 ## Computational modeling: A new approach to solve old problems
 
@@ -30,7 +30,7 @@ Introductory readings on Complex Adaptive Systems and their relation to talk-in-
 
 Bloomfield and beyond
 
-# On reductionism
+### On reductionism
 
 linguistics as computational social science
 beyond 'mainstream' scientific method
