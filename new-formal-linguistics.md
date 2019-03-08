@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## New formal linguistics
+
+
+
+
 ## The Language as Complex Adaptive Systems (CAS) paradigm
 
 Introductory readings on Complex Adaptive Systems and their relation to talk-in-interaction:
