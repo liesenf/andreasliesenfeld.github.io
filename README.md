@@ -13,11 +13,11 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of social interaction, combining qualitative studies of talk-in-interaction (interactional linguistics, phonetics) with the quantitative study of corpora of spoken discourse (grammar induction). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing formal representations of building blocks of talk-in-interaction and the development of tools that model aspects of it (dialog systems, conversational agents).<br />
+My main research interest is the study of social interaction, combining qualitative studies of talk-in-interaction (interactional linguistics, phonetics) with the quantitative study of corpora of spoken discourse (grammar induction, distributional modeling). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing formal representations of building blocks of talk-in-interaction and the development of tools that model aspects of it (dialog systems, conversational agents).<br />
 
 <br />
 
-Most of my work has been on Chinese (Mandarin and Cantonese).<br />
+Most of my work has been on Chinese (Mandarin and Cantonese) and English (Singaporean English and World Englishes).<br />
 
 <br />
 
