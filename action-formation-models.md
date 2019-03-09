@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Dialog management: a corpus-based method for reflexive action formation modeling
+# A new approach to dialog management: Towards a corpus-based method for reflexive action formation modeling
 
 toward a method to model processes of action formation and ascription as vector space representations
 Why now? Large speech corpora available
