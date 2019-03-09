@@ -7,7 +7,21 @@ layout: default
 toward a method to model processes of action formation and ascription as vector space representations
 Why now? Large speech corpora available
 
-### Application in dialog systems: see article 
+### Application in dialog systems
+
+The aim of models of action formation with respect to dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
+
+The development of models of these processes has both theoretical and practical applications. The motivation can be to use these models as a basis for theories about human (linguistic) interaction, but it can also be the development of speech technology that emulate this kind of social conduct for various applications.
+
+Generally speaking, the developement of speech technology in this area is guided by the following principles (Gillis et al. 2009):
+
+problem reduction: a task is decomposed into a number of simpler substasks which can be further decomposed until subtasks are distinguished which can directly be modeled and implemented.
+
+modularity: the program achieving a task is divided into different modules, often corresponding to major substasks, which are more or less autonomous, specialized information processors.
+
+formalization: Within each module, a formalism is designed that puts together the necessary knowledge and methods needed for that module to accomplish its task. The respective formalism needs to capture the representation and manipulation of the specific slice of knowledge, i.e. it provides a bridge between theory and implementation.
+
+
 
 The symbol grounding problem
 How to model such networks? At the lexical level? Is any "deeper" representation possible? Intro to deep linguistic parsing.
