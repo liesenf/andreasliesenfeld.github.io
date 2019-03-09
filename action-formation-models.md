@@ -19,12 +19,9 @@ problem reduction: a task is decomposed into a number of simpler substasks which
 
 modularity: the program achieving a task is divided into different modules, often corresponding to major substasks, which are more or less autonomous, specialized information processors.
 
-formalization: Within each module, a formalism is designed that puts together the necessary knowledge and methods needed for that module to accomplish its task. The respective formalism needs to capture the representation and manipulation of the specific slice of knowledge, i.e. it provides a bridge between theory and implementation.
+formalization: Within each module, a formalism is designed that puts together the necessary knowledge and methods needed for that module to accomplish its task. The respective formalism needs to capture the representation and manipulation of the specific slice of knowledge, i.e. it provides a bridge between theory and implementation. Such formalizations provide the means with which the necessary knowledge is organized in a certain way. However, this necessary step of (re)organizing the data is often problematic for a number of theoretical reasons (see section "On reductionism").
+Formalization ultimately provides a means to enable inference for how the data can be used to solve the task at hand, either through 'procedual formal models' that enable direct inference based on specific instances or through 'declarative formal models' that exhibit a larger degree of separation between knowledge representation and inference aspects of a problem. 
 
-
-
-The symbol grounding problem
-How to model such networks? At the lexical level? Is any "deeper" representation possible? Intro to deep linguistic parsing.
 
 ### Theory testing: Computational modeling as new approach to solve old problems
 
