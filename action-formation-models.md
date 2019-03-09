@@ -43,7 +43,7 @@ A common way to expand these simple speech act approaches is to add more sophist
 
 What do these 'discourse formalisms' look like? Well, most proposed formalisms for the comprehension and production of discourse still tend to ignore many of this complexities and treat discourse as a product, provide a discourse grammar that consists of formal discourse rules as well as as some kind of augmented transition network (ATN) formalism for analyzing discourse. In contrast, however, qualitative research traditions of discourse and talk, most prominently probably conversation analysis (CA), have long advocated that dialog is a joint interactional achievement of multiple parties. In fact, the highly dynamic and complex view of dialog that conversation analysis advocates is yet to find an adequate formal representation, though some attempts were made to fruitfully integrate insights from CA and dialog modeling (e.g. Luff et al. 1990; Gillis et al. 2009). 
 
-User models
+One of the prerequisites to develop dialog systems in adherence to conversation analytic theory are models that capture and update knowledge of the participants of a dialog and numerous of such modules have been developed as part of dialog systems under to the topic of <i>user models</i> (Wilensky et al. 1988; Chin 1989; Morik 1989). In the context of dialog systems, user models are knowledge bases that contain (and update) all aspects of the user that may be relevant to the dialog behaviour of the system and that inform 'intelligent' interaction (Allen 1994). User models are crucial modules of dialog systems that, based on storing relevant information about the interlocutors, enable more appropriate linguistic behaviour through recipient-tailored language generation.
 
 
 
