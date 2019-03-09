@@ -24,6 +24,9 @@ Formalization ultimately provides a means to enable inference for how the data c
 
 As for dialog systems, the task of interpreting and generating natual language is usually decomposed into various subtasks tied to 'linguistic units', i.e. phoneme, word, turn (or sentence) and discourse.
 
+
+
+
 ### Theory testing: Computational modeling as new approach to solve old problems
 
 Alishahi, computational modeling as scientific method
