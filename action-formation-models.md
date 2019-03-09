@@ -2,16 +2,23 @@
 layout: default
 ---
 
-# A new approach to dialog management: Towards a corpus-based method for reflexive action formation modeling
+# A new approach to dialog management: Towards a corpus-based method to model reflexive action formation
+
+The aim of models of action formation for application in dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
 
 toward a method to model processes of action formation and ascription as vector space representations
 Why now? Large speech corpora available
 
+The development of models of these processes has both theoretical and practical applications. The motivation can be to use these models as a basis for theories about human (linguistic) interaction, but it can also be the development of speech technology that emulate this kind of social conduct for various applications.
+
+### Theory testing and development: Computational modeling as new approach to solve old problems
+
+Alishahi, computational modeling as scientific method
+
+
+
 ### Application in dialog systems
 
-The aim of models of action formation with respect to dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
-
-The development of models of these processes has both theoretical and practical applications. The motivation can be to use these models as a basis for theories about human (linguistic) interaction, but it can also be the development of speech technology that emulate this kind of social conduct for various applications.
 
 Generally speaking, the developement of speech technology in this area is guided by the following principles (Gillis et al. 2009):
 
@@ -24,12 +31,9 @@ Formalization ultimately provides a means to enable inference for how the data c
 
 As for dialog systems, the task of interpreting and generating natual language is usually decomposed into various subtasks tied to 'linguistic units', i.e. phoneme, word, turn (or sentence) and discourse. Based on this division, a larger architecture of various modules is established both on the language understanding and the language generation side. Possible modules in language understanding are: <i>speech recognition, morphological analysis, syntactic parsing, semantic analysis </i> and <i>discourse analysis</i>. And for language generation: <i>discourse planning, turn (or sentence) generation, morphological generation</i> and <i>speech production</i>.
 
-The modules are often organized as part of a sequential architecture where the different modules are accessed in sequence and the output of one module is directly input into the next module. Recently, more interactive architectures have also gained popularity where the modules are not strictly accessed in a sequential fashion, but feature more links and feedback loops between different modules (i.e. distributed connectionist models). This is especially true for the syntax-semantics interface where a trend can be observed away from 'syntax first' strategies in which a syntactic parse is computed first and then fed into a semantic module. Instead, new approaches to the syntax-semantics interface enable an integration of these formely separate  modules, often drawing on cognitive grammars (see section "Framenets and Constructicons"). Noteably, this trend is a reminder that the division into modules is fact driven by design decisions based on the principles of 'problem reduction' and 'modularity', but that it is by no means garanteed that the dividing lines in such a system accurately reflect talk-in-interaction in humans.   
+The modules are often organized as part of a sequential architecture where the different modules are accessed in sequence and the output of one module is directly input into the next module. Recently, more interactive architectures have also gained popularity where the modules are not strictly accessed in a sequential fashion, but feature more links and feedback loops between different modules (i.e. distributed connectionist models). This is especially true for the syntax-semantics interface where a trend can be observed away from 'syntax first' strategies in which a syntactic parse is computed first and then fed into a semantic module. Instead, new approaches to the syntax-semantics interface enable an integration of these formely separate  modules, often drawing on cognitive grammars (see section "Framenets and Constructicons"). Noteably, this trend is a reminder that the division into modules is fact driven by design decisions based on the principles of 'problem reduction' and 'modularity', but that it is by no means garanteed that the dividing lines in such a system accurately reflect talk-in-interaction in humans. This also applies to the semantics-pragmatics interface.
 
-
-### Theory testing: Computational modeling as new approach to solve old problems
-
-Alishahi, computational modeling as scientific method
+### Existing approaches to representing knowledge and intentions
 
 
 
