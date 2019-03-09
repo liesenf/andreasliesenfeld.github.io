@@ -41,6 +41,10 @@ To date, <i>speech act theory</i> (SAT) and its many variations are still the mo
 
 A common way to expand these simple speech act approaches is to add more sophisticated models of <i>context</i> and <i>cotext</i>. For an adequate interpretation of an utteance, the hearer needs to take into account both situational context, the interlocutor's knowledge of the domain as well as as sorts of links between current utterances those that precede it. Various aspects of 'context' have been studied under topics such as reference, anaphora resolution and discourse coherence. Many models in these field rely on defining larger discourse structures that go beyond turns and setences, such as <i>schemas</i> or <i>frames</i>. For instance, the pioneering work by McKeown (1985) and Sidner (1983, 1985) on discourse generation is based on formalisms of certain underlying patterns that structure discourse, e.g. "schemas of discourse generation for attaining discourse goals" that both speakers and listeners rely on when jointly producing stretches of talk (Carberry 1989). 
 
+What do these 'discourse formalisms' look like? Well, most proposed formalisms for the comprehension and production of discourse still tend to ignore many of this complexities and treat discourse as a product, provide a discourse grammar that consists of formal discourse rules as well as as some kind of augmented transition network (ATN) formalism for analyzing discourse. In contrast, however, qualitative research traditions of discourse and talk, most prominently probably conversation analysis (CA), have long advocated that dialog is a joint interactional achievement of multiple parties. In fact, the highly dynamic and complex view of dialog that conversation analysis advocates is yet to find an adequate formal representation, though some attempts were made to fruitfully integrate insights from CA and dialog modeling (e.g. Luff et al. 1990; Gillis et al. 2009). 
+
+User models
+
 
 
 ## Corpus-based representations of dialog acts
