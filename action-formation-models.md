@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# New approaches to dialog management: Towards a corpus-based method of reflexive action formation as tensors
+# New approaches to dialog management: Towards a corpus-based method of representing reflexive action formation as tensors
 
 The aim of models of action formation for application in dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
 
