@@ -4,12 +4,11 @@ layout: default
 
 # New approaches to dialog management: Towards a corpus-based method of representing reflexive action formation as tensors
 
-The aim of models of action formation for application in dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
+The aim of models of action formation for application in dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing social actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
 
-toward a method to model processes of action formation and ascription as vector space representations
-Why now? Large speech corpora available
+Existing approaches to this problem (i.e. existing dialog act taxonomies) are largely hand-crafted and rely on labeling turns-at-talk as certain actions such as 'greeting', 'inform', 'agree' or 'disagree'. In order to enhance the complexity of this labeling process, I explore how large speech corpora can be utilized to build tensor representations of such actions. As tensors, these representations can capture additional aspects of the actions such as prototypicality scores and a more sophisticated mapping of specific turn formats to each action label. This approach crucially relies on large annotated corpora of natural dialog and conversation that have only recently become available.
 
-The development of models of these processes has both theoretical and practical applications. The motivation can be to use these models as a basis for theories about human (linguistic) interaction, but it can also be the development of speech technology that emulate this kind of social conduct for various applications.
+The development of a tensor model of these processes has both theoretical and practical applications. The motivation can be to use these models as a basis for theories about human (linguistic) interaction, but it can also be the development of speech technology that emulate this kind of social conduct for various applications.
 
 ### Theory testing and development: Computational modeling as new approach to solve old problems
 
