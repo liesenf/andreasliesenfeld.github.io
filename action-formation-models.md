@@ -98,6 +98,24 @@ Introductory readings on Complex Adaptive Systems and their relation to talk-in-
 
 <a href="http://cnl.psych.cornell.edu/pubs/2009-LACAS-pos-LL.pdf">Position paper</a> by Clay Beckner, Nick C. Ellis, Richard, Blythe John Holland, Joan Bybee, Jinyun Ke, Morten H. Christiansen, Diane Larsen-Freeman, William Croft and Tom Schoenemann.
 
+### References
+
+Allen, J.F., 1983. Recognizing intentions from natural language utterances. Computational models of discourse, pp.107-166.
+Allen, J., 1995. Natural language understanding. Pearson.
+Carberry, S., 1983, August. Tracking User Goals in an Information-Seeking Environment. In AAAI (pp. 59-63).
+Cawsey, A., 1990. A Computational Model of Explanatory Discourse: local interactions in a plan-based explanation. In Computers and conversation (pp. 221-234). Academic Press.
+Chin, D.N., 1989. KNOME: Modeling what the user knows in UC. In User models in dialog systems (pp. 74-107). Springer, Berlin, Heidelberg.
+Cohen, P.R. and Perrault, C.R., 1979. Elements of a plan-based theory of speech acts. Cognitive science, 3(3), pp.177-212.
+Hovy, E.H., 1988, June. Planning coherent multisentential text. In Proceedings of the 26th annual meeting on Association for Computational Linguistics (pp. 163-169). Association for Computational Linguistics.
+Kobsa, A., 1989. A taxonomy of beliefs and goals for user models in dialog systems. In User models in dialog systems (pp. 52-68). Springer, Berlin, Heidelberg.
+Kobsa, A., and Wahlster, W. ed., 1989. User models in dialog systems (p. 10). Berlin: Springer-Verlag.
+McCoy, K.F., 1989. Highlighting a user model to respond to misconceptions. In User models in dialog systems (pp. 233-254). Springer, Berlin, Heidelberg.
+McKeown, K.R., 1985. Discourse strategies for generating natural-language text. Artificial Intelligence, 27(1), pp.1-41.
+Rosch, E. and Mervis, C.B., 1975. Family resemblances: Studies in the internal structure of categories. Cognitive psychology, 7(4), pp.573-605.
+Schank, R.C., 1972. Conceptual dependency: A theory of natural language understanding. Cognitive psychology, 3(4), pp.552-631.
+Scott, D. and de Souza, C.S., 1990. Getting the message across in RST-based text generation. Current research in natural language generation, 4, pp.47-73.
+Wilensky, R., 1983. Planning and understanding: A computational approach to human reasoning.
+Zock, M. and Sabah, G., 1988. Advances in Natural Generation. Greenwood Publishing Group Inc..
 
 
 [back](./)
