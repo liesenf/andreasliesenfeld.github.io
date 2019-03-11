@@ -12,8 +12,7 @@ The development of a tensor model of these processes has both theoretical and pr
 
 ### Theory testing and development: Computational modeling as new approach to solve old problems
 
-Alishahi, computational modeling as scientific method
-
+Today, computational modeling is an established method for the investigation of linguistic theory, for testing existing theories and for proposing pausible mechanisms that are involved at all levels of language understanding and generation. In fact, computational modeling using statistical machine learning techniques has become one of the main methodologies in the study of human cognitive processes related to language, despite remaining challenges regarding the interpretability of the outcome of many of such models (Alishahi 2010). Combined with findings coming out of other fields, computational models can give us insights about which representations and processes are more plausible in the light of other empirical and experimental evidence related to the phenomenon under study. The potential contribution of this line of work is twofold, interpreting and evaluating the proposed dialog management models can help to evaluate and advance pragmatic theory, while the model may also be designed with speech technology applications in mind.
 
 
 ### Application in dialog systems
@@ -99,6 +98,8 @@ Introductory readings on Complex Adaptive Systems and their relation to talk-in-
 <a href="http://cnl.psych.cornell.edu/pubs/2009-LACAS-pos-LL.pdf">Position paper</a> by Clay Beckner, Nick C. Ellis, Richard, Blythe John Holland, Joan Bybee, Jinyun Ke, Morten H. Christiansen, Diane Larsen-Freeman, William Croft and Tom Schoenemann.
 
 ### References
+
+Alishahi, A., 2010. Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), pp.1-107.
 
 Allen, J.F., 1983. Recognizing intentions from natural language utterances. Computational models of discourse, pp.107-166.
 
