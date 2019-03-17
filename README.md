@@ -17,7 +17,7 @@ My main research interest is the study of talk, combining qualitative studies of
 
 <br />
 
-Most of my work has been on Chinese (Mandarin and Cantonese) and English (British English and World Englishes).<br />
+Most of my work has been on Chinese (Mandarin and Cantonese) and English (British Englishes and World Englishes).<br />
 
 <br />
 
