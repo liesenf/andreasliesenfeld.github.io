@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I study talk with a focus on understanding the interplay between the formation of social action and linguistic structure. I am also developing new tools for conversational (nontask-oriented) dialog systems. I have worked on annotations of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (SLU). I have also worked on the development of cognitive grammars for conversational systems, i.e. framenets and constructicons. <br />
+I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. A linguist with a background in data science, I study talk with a focus on understanding the interplay between the formation of social action and linguistic structure. I am also developing new tools for conversational (nontask-oriented) dialog systems. I have worked on annotations of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (SLU). I have also worked on the development of cognitive grammars for conversational systems, i.e. framenets and constructicons. <br />
 
 <br />
 <br />
