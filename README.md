@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I am interested in the study of talk and interaction with a focus on understanding the interplay between linguistic structures and action formation in conversation. I am also interested in building tools for conversational (nontask-oriented) dialog systems. I have worked on annotations of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (ASR/SLU) and dialog management (DM). I have also worked on the development of cognitive grammars for conversational systems, i.e. framenets and construction grammars. <br />
+I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. I study talk with a focus on understanding the interplay between the formation of social action and linguistic structure. I am also developing new tools for conversational (nontask-oriented) dialog systems. I have worked on annotations of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (SLU). I have also worked on the development of cognitive grammars for conversational systems, i.e. framenets and constructicons. <br />
 
 <br />
 <br />
@@ -13,11 +13,11 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of social interaction, combining qualitative studies of talk-in-interaction (interactional linguistics, phonetics) with the quantitative study of corpora of spoken discourse (grammar induction, distributional modeling). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing formal representations of building blocks of talk-in-interaction and the development of tools that model aspects of it (dialog systems, conversational agents).<br />
+My main research interest is the study of talk, combining qualitative studies of talk-in-interaction (interactional linguistics, phonetics) with the quantitative study of corpora of spoken discourse (grammar induction, distributional modeling). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing corpus-based representations of building blocks of conversation as tensors. Specifically, I explore how speech corpus data can be integrated in DS-TTR dialog parsing and management systems.<br />
 
 <br />
 
-Most of my work has been on Chinese (Mandarin and Cantonese) and English (Singaporean English and World Englishes).<br />
+Most of my work has been on Chinese (Mandarin and Cantonese) and English (British English and World Englishes).<br />
 
 <br />
 
