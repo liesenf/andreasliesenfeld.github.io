@@ -13,7 +13,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of talk, combining qualitative studies of talk-in-interaction (interactional linguistics, phonetics) with the quantitative study of corpora of spoken discourse (grammar induction, distributional modeling). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing corpus-based representations of building blocks of conversation as tensors. Specifically, I explore how speech corpus data can be integrated in DS-TTR dialog parsing and management systems.<br />
+My main research interest is the study of talk, combining qualitative studies of talk-in-interaction (interactional linguistics, phonetics) with the quantitative study of corpora of spoken discourse (grammar induction, distributional modeling). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing corpus-based representations of building blocks of conversation as tensors. Specifically, I explore how speech corpus data can be integrated in TTR dialog parsing and management systems.<br />
 
 <br />
 
