@@ -27,7 +27,7 @@ Chinese:
 
 1. Chinese FrameNet (CFN), Shanxi University (defunct)
 
-2. <a href="http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-Lex/">Chinese FrameNet at Nanyang Technological University, Singapore</a> 
+2. <a href="http://nlg.csie.ntu.edu.tw/nlpresource/FrameNet/CFN-Lex/">Chinese FrameNet at National Taiwan University, Taiwan</a> 
 
 Constructicons amd CxG-based grammar induction: 
 
