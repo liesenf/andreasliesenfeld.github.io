@@ -22,7 +22,7 @@ Most of my work has been on Chinese and English.<br />
 <br />
 
 <b>Experience:</b> <br>
-Postdoctoral Research Fellow at Linguistics Theory and Language Technology (<a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">LTT</a>) lab, The Hong Kong Polytechnic University, Hong Kong.<br>
+Postdoctoral Research Fellow, (<a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg"> Lingustics Theory and Language Technology group</a>), The Hong Kong Polytechnic University, Hong Kong.<br>
 Visiting fellow, Computational Linguistics, Düsseldorf University, Germany<br>
 Data scientist, Industry, Berlin, Germany<br>
 <a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">Get full CV</a><br>
