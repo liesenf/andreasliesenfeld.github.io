@@ -13,7 +13,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology design (dialog management, NLP and ASR for voice assistants). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. My current work focuses on user experience evaluation, dialog management system design and speech recognition for non-lexical utterances. I also work as a conversation design consultant and currently write a book in this area.<br />
+My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology design (dialog management, NLP and ASR for voice assistants). My work focuses on user experience evaluation, dialog management system design and speech recognition for non-lexical utterances. In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. I also work as a conversation design consultant and currently write a book in this area.<br />
 
 <br />
 
