@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am currently a PhD candidate in linguistics at Nanyang Technological University, Singapore. A linguist with a professional background in data science, I study talk with a focus on understanding the interplay between social action and linguistic structure. I am also developing new tools for conversational (nontask-oriented) dialog systems. I have worked on annotations of non-lexical utterances, disfluency and laughter for the application in spoken language understanding (SLU). I have also worked on the development of cognitive grammars for conversational systems, i.e. framenets and constructicons. <br />
+A social scientist with a professional background in data science, I study human-human and human-technology interaction with a focus on understanding the interplay between social action and linguistic structure. I am also developing tools for voice assistants and dialog agents. I have worked on dialog flow, repair and turn design in voice technology, with a particular interest in how non-lexical utterances, disfluency and laughter can be represented in machine-readable formats. Previously, I  have also worked on the development of cognitive grammars for speech technology and NLP. <br />
 
 <br />
 <br />
@@ -13,20 +13,20 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of talk, combining qualitative studies of talk-in-interaction (interactional linguistics, conversation analysis) with the quantitative study of corpora of spoken discourse (grammar induction, distributional modeling). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. Currently, I work on developing corpus-based representations of building blocks of conversation as tensors. Specifically, I explore how speech corpus data can be integrated in natural language understanding modules.<br />
+My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology design (dialog management, NLP and ASR for voice assistants). In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. My current work focuses on user experience evaluation, dialog management system design and speech recognition for non-lexical utterances. I also work as a conversation design consultant and currently write a book in this area.<br />
 
 <br />
 
-Most of my work has been on Chinese (Mandarin and Cantonese) and English (British Englishes and World Englishes).<br />
+Most of my work has been on Chinese and English.<br />
 
 <br />
 
 <b>Experience:</b> <br>
-PhD student in linguistics, Nanyang Technological University, Singapore<br>
-Visiting fellow, CRC991 frame semantics, Düsseldorf University, Germany<br>
+PhD, Nanyang Technological University, Singapore<br>
+Visiting fellow, Computational Linguistics, Düsseldorf University, Germany<br>
 Data scientist, Industry, Berlin, Germany<br>
-Master, School of Social Sciences, University of Hong Kong, SAR of China<br>
-Bachelor, Fakultät für Geisteswissenschaften, University of Bonn, Germany<br />
+Master, University of Hong Kong, Hong Kong SAR <br>
+Bachelor, University of Bonn, Germany<br />
 <a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">Get full CV</a><br>
 
 <br />
