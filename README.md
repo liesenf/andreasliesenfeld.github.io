@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-A social scientist with a professional background in data science, I study human-human and human-technology interaction with a focus on understanding the interplay between social action and linguistic structure. I am also developing tools for voice assistants and dialog agents. I have worked on dialog flow, repair and turn design in voice technology, with a particular interest in how non-lexical utterances, disfluency and laughter can be represented in machine-readable formats. Previously, I  have also worked on the development of cognitive grammars for speech technology and NLP. <br />
+A computational linguist with a professional background in data science, I study human-technology interaction with a focus on understanding the interplay between social action, speech and their formal representations. I am also developing tools for voice assistants and dialog agents. I have worked on dialog flow, repair and turn design in voice technology, with a particular interest in how non-lexical utterances, disfluency and laughter can be represented in machine-readable formats. Previously, I have also worked on the development of cognitive grammars for speech technology and NLP. <br />
 
 <br />
 <br />
@@ -13,7 +13,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology design (dialog management, NLP and ASR for voice assistants). My work focuses on user experience evaluation, dialog management system design and speech recognition for non-lexical utterances. In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. I also work as a conversation design consultant and currently write a book in this area.<br />
+My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology (system design, dialog management, NLP and ASR for voice assistants). My current work focuses on user experience evaluation, dialog management system design and speech recognition for non-lexical utterances. In my early-career research I have conducted linguistic fieldwork in different parts of Asia and built a video corpus of Malaysian Cantonese. I also work as a conversation design consultant and currently write a book in this area.<br />
 
 <br />
 
