@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-A computational linguist with a professional background in data science and a passion for (<a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a>), I study human-technology interaction with a focus on understanding the interplay between social action, speech and their formal representations. I am also developing tools for voice assistants and dialog agents. I have worked on dialog flow, repair and turn design in voice technology, with a particular interest in how non-lexical utterances, disfluency and laughter can be represented in machine-readable formats. Previously, I have also worked on the development of cognitive grammars for speech technology and NLP. <br />
+A computational linguist with a professional background in data science and a passion for <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a>, I study human-technology interaction with a focus on understanding the interplay between social action, speech and their formal representations. I am also developing tools for voice assistants and dialog agents. I have worked on dialog flow, repair and turn design in voice technology, with a particular interest in how non-lexical utterances, disfluency and laughter can be represented in machine-readable formats. Previously, I have also worked on the development of cognitive grammars for speech technology and NLP. <br />
 
 <br />
 <br />
