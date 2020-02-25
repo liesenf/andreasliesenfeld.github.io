@@ -18,7 +18,7 @@ I also work as a conversation design consultant and currently write a book in th
 
 <br />
 
-Most of my work has been on Chinese and English.<br />
+Most of my work has been on Mandarin and Cantonese Chinese.<br />
 
 <br />
 
