@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a language engineer with a professional background in data science and a passion for <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a>. I develop tools for voice assistants and dialog agents. I also write academic papers about human interaction in the tradition of conversation analysis and interactional linguistics<br />
+I am a computational linguist with a professional background in data science and a passion for <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a>. I develop tools for voice assistants and dialog agents. I also write academic papers about human interaction in the tradition of conversation analysis and interactional linguistics<br />
 
 <br />
 <br />
