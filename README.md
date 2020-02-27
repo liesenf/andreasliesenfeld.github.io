@@ -26,6 +26,7 @@ Most of my work has been on Mandarin and Cantonese Chinese.<br />
 Postdoctoral Research Fellow, Linguistics Theory and Language Technology group (<a href="http://llt.cbs.polyu.edu.hk/">LTT</a>), The Hong Kong Polytechnic University, Hong Kong.<br>
 Visiting fellow, Computational Linguistics, Düsseldorf University, Germany<br>
 Data scientist, Industry, Berlin, Germany<br>
+Journalist, Industry, Hong Kong/London.
 <a href="mailto:lies0002[AT]ntu[DOT]edu[DOT]sg">Get full CV</a><br>
 
 <br />
