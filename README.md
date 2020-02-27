@@ -38,7 +38,7 @@ For the video corpus of spoken Chinese see also: <a href="https://liesenf.github
 
 <b>Software:</b><br>
 <a href="https://liesenf.github.io/toolstutorials">Cause Chi</a> (Tagger for causal discourse markers in spoken Chinese)<br>
-<a href="https://liesenf.github.io/toolstutorials">MV parser</a> (Augument structure tagger for Chinese) <br>
+<a href="https://liesenf.github.io/toolstutorials">MV parser</a> (Argument structure tagger for Chinese) <br>
 
 <br />
 
