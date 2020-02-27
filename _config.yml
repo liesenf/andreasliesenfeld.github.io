@@ -2,4 +2,4 @@ etheme: jekyll-theme-minimal
 title: Andreas Liesenfeld
 logo: logo.png
 description: conversation design & speech technology
-show_downloads: true
+show_downloads: false
