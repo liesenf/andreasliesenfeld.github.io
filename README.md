@@ -50,6 +50,6 @@ For the video corpus of spoken Chinese see also: <a href="https://liesenf.github
 
 <br />
 
-<font color="red">&#9830; &#9830; &#9830; I recently moved this blog from www.andreasliesenfeld.com. &#9830; &#9830; &#9830;</font><br />
+<font color="red">&#9830; &#9830; &#9830; I recently moved this blog from www.andreasliesenfeld.com. I know the website is ugly, sorry for that. &#9830; &#9830; &#9830;</font><br />
 
 <br />
