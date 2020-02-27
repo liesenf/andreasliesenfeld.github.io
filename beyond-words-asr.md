@@ -2,7 +2,10 @@
 layout: default
 ---
 
-## Understanding action formation
+## UNDER CONSTRUCTION
+
+The "Beyond words speech recognition" project ...
+
 
 This field of inquiry is concerned with the study of talk-in-interaction in its 'natural habitat', causal everyday social interaction that takes place within the <a href="https://en.wikipedia.org/wiki/Turn-taking">turn-taking system</a>.
 
