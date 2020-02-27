@@ -97,6 +97,21 @@ Introductory readings on Complex Adaptive Systems and their relation to talk-in-
 
 <a href="http://cnl.psych.cornell.edu/pubs/2009-LACAS-pos-LL.pdf">Position paper</a> by Clay Beckner, Nick C. Ellis, Richard, Blythe John Holland, Joan Bybee, Jinyun Ke, Morten H. Christiansen, Diane Larsen-Freeman, William Croft and Tom Schoenemann.
 
+### Symbol grounding problem revisited
+
+What can be learned using today’s machine learning methods?
+
+Symbol grounding problem revisited
+
+A sociology of deep learning
+
+Work by Michael Castelle:
+
+Blog: “Social Theory for Generative Networks (and Vice Versa)”, https://castelle.org/pages/social-theory-for-generative-networks-and-vice-versa.html
+
+Blog: “Deep Learning as an Epistemic Ensemble” https://castelle.org/pages/deep-learning-as-an-epistemic-ensemble.html
+
+
 ### References
 
 Alishahi, A., 2010. Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), pp.1-107.
