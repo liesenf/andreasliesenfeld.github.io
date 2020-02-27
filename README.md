@@ -5,7 +5,6 @@
 I am a computational linguist with a professional background in data science and a passion for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I develop tools for voice assistants and dialog agents. I also write academic papers on human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>.<br />
 
 <br />
-<br />
 <b>Email:</b> <br> 
 lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
