@@ -20,7 +20,7 @@ I also work as a conversation design consultant and currently write a book in th
 
 Most of my work has been on Mandarin and Cantonese Chinese.<br />
 
-My Erdős number is 0. Who is  <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number>Erdős</a>?<br />
+My Erdős number is 0. Who is  <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős</a>?<br />
 <br />
 
 <b>Experience:</b> <br>
