@@ -21,6 +21,8 @@ Most of my work has been on Mandarin and Cantonese Chinese.<br />
 
 My Erdős number is 0. Who is  <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős</a>?<br />
 
+I'm a late naturalist under pressure.
+
 "You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin
 <br />
 
