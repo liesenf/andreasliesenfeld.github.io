@@ -19,9 +19,7 @@ I also work as a conversation design consultant and currently write a book in th
 
 Most of my work has been on Mandarin and Cantonese Chinese.<br />
 
-My Erdős number is 0. Who is  <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős</a>?<br />
-
-I'm a late naturalist under pressure.
+I'm a late naturalist under pressure. My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 0.<br />
 
 "You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin
 <br />
