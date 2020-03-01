@@ -16,7 +16,7 @@ layout: default
 
 ### Useful links:
 
-What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, academics call <a href="https://en.wikipedia.org/wiki/Grounded_theory">grounded theory</a>.
+What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, social scientists call <a href="https://en.wikipedia.org/wiki/Grounded_theory">grounded theory</a>.
 
 http://praatscripting.lingphon.net
 
