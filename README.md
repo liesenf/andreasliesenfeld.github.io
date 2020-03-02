@@ -37,6 +37,9 @@ Journalist, Industry, Hong Kong/London.<br>
 <b>Publication:</b> <br />
 <a href="https://scholar.google.com/citations?user=pMjOZNsAAAAJ">Visit Google scholar</a><br />
 For the video corpus of spoken Chinese see also: <a href="https://liesenf.github.io/mycancor">MYCanCor</a><br />
+For publications in Chinese see also  <a href="http://new.oversea.cnki.net/index/">CNKI</a><br />
+
+
 
 <br />
 
