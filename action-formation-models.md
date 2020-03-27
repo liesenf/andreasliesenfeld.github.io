@@ -2,23 +2,10 @@
 layout: default
 ---
 
-# New approaches to dialog management: Towards a corpus-based method of representing reflexive action formation as tensors
-
-The aim of models of action formation for application in dialog systems is to develop computational models of the knowledge and processes involved in the reflexive processes of formatting and ascribing social actions to turn-at-talk - an essential task to human or human-like participation in the turn-taking system. 
-
-Existing approaches to this problem (i.e. existing dialog act taxonomies) are largely hand-crafted and rely on labeling turns-at-talk as certain actions such as 'greeting', 'inform', 'agree' or 'disagree'. In order to enhance the complexity of this labeling process, I explore how large speech corpora can be utilized to build tensor representations of such actions. As tensors, these representations can capture additional aspects of the actions such as prototypicality scores and a more sophisticated mapping of specific turn formats to each action label. This approach crucially relies on large annotated corpora of natural dialog and conversation that have only recently become available.
-
-The development of a tensor model of these processes has both theoretical and practical applications. The motivation can be to use these models as a basis for theories about human (linguistic) interaction, but it can also be the development of speech technology that emulate this kind of social conduct for various applications.
-
-### Theory testing and development: Computational modeling as a new approach to solve old problems
-
-Today, computational modeling is an established method for the investigation of linguistic theory, for testing existing theories and for proposing pausible mechanisms that are involved at all levels of language understanding and generation. In fact, computational modeling using statistical machine learning techniques has become one of the main methodologies in the study of human cognitive processes related to language, despite remaining challenges regarding the interpretability of the outcome of many of such models (Alishahi 2010). Combined with findings coming out of other fields, computational models can give us insights about which representations and processes are more plausible in the light of other empirical and experimental evidence related to the phenomenon under study. The potential contribution of this line of work is twofold, interpreting and evaluating the proposed dialog management models can help to evaluate and advance pragmatic theory, while the model may also be designed with speech technology applications in mind.
+# Notes on developing dialog systems and voice assistants
 
 
-### Application in dialog systems
-
-
-Generally speaking, the developement of speech technology in this area is guided by the following principles (Gillis et al. 2009):
+The developement of speech technology is guided by the following principles (Gillis et al. 2009):
 
 <i>problem reduction</i>: a task is decomposed into a number of simpler substasks which can be further decomposed until subtasks are distinguished which can directly be modeled and implemented.
 
@@ -51,45 +38,9 @@ Building on user models (that are already challenging enough to design), <i>lang
 
 In summary, current approaches to dialog modeling combine a multitude of different frameworks, each consisting of different representation techniques such as rules, logic, frames or grammars. Orchestrated as a whole these symbollic programming constructs can achieve an unprecedented level of abstraction that allows to mimic human-like linguistic flexibility and creativity. However, due to the high level of abstraction, today's symbolic systems have become extremely complex to handle as each exception requires additional rules and processing (see scalability problem). In recent years, data-intensive machine learning techniques have been added at many levels of these systems, further increasing complexity while promising potential solutions for existing scalability and robustness problems. Generally, the dialog modeling community seems to have moved away from the description of linguistic structure per se towards a description of more 'cognitive' aspects of talk-in-interaction in the form of large associative networks (e.g. semantic webs, framenets, construction networks etc.). In line with this trend, the remainder of this post focused on describing the links between linguistic structure to processes of 'social action formation'. First, I will review existing approaches in the field, such as speech act theories and dialog act taxonomies. Then I will outline an approach to this task that conceptualizes the links between structure and social action as a multitude of fine-grained, continuous, often ambiguous and always recipient-designed processes. Finally, I will explore how these processes of <i>reflexive action formation</i> (Levinson 2013) can inform a corpus-based method for the development of representations of speech acts as tensors. 
 
-## Corpus-based representations of dialog acts
+### Computational models of dialog and conversation can advance the science of talk and language use
 
-Bloomfield and beyond
-
-### Towards a method to identify properties of 'distributional dialog acts' 
-
-
-
-
-
-
-
-## Dialog acts a construction networks
-
-formalization is not an 'innocent' or theory-neural practice (Linell)
-Grounded theory
-
-### Labeling dialog acts: Exploratory data analysis 
-
-### Modeling dialog acts: vector space representations
-
-towards a method for (1) 'comparative' and (2) 'latent' speech act analysis
-
-
-
-
-
-## Remaining challenges
-
-modeling reflexivity (recursive loops)
-open system properties (i.e. language as cas) operate not only on the level of (cognitive) knowledge representation but also intersubjectively
-
-### On reductionism
-
-linguistics as computational social science
-beyond 'mainstream' scientific method
-
-'mixed method' approach:
-grounded theory (Glaser and Strauss)
+Today, computational modeling is an established method for the investigation of linguistic theory, for testing existing theories and for proposing pausible mechanisms that are involved at all levels of language understanding and generation. In fact, computational modeling using statistical machine learning techniques has become one of the main methodologies in the study of human cognitive processes related to language, despite remaining challenges regarding the interpretability of the outcome of many of such models (Alishahi 2010). Combined with findings coming out of other fields, computational models can give us insights about which representations and processes are more plausible in the light of other empirical and experimental evidence related to the phenomenon under study. The potential contribution of this line of work is twofold, interpreting and evaluating the proposed dialog management models can help to evaluate and advance pragmatic theory, while the model may also be designed with speech technology applications in mind.
 
 ### The Language as Complex Adaptive Systems (CAS) paradigm
 
