@@ -8,15 +8,15 @@ What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_devel
 
 ## Processing Cantonese: 
 
-1. MV dialog parser (link)
+1. MV dialog parser for Chinese (broken link)
 
-2. Pycantonese http://pycantonese.org/
+2. <a href="http://pycantonese.org/">Pycantonese Cantonese processing in Python:</a>
 
 ### Annotation of speech-in-talk:
 
-1. Conversation analytic transcriptions in LaTeX (link)
+1. Conversation analytic transcriptions in LaTeX (broken link)
 
-2. Multilayer annotation in Praat (link)
+2. Multilayer annotation in Praat (broken link)
 
 ### Useful Praat scripts:
 
@@ -38,19 +38,19 @@ http://praatscripting.lingphon.net
 
 ### Machine learning for dialog systems and conversational AI:
 
- <a href="Colah's famous blog on machine learning">http://colah.github.io/
+ <a href="http://colah.github.io/">Colah's famous blog on machine learning
 </a>
 
 
-<a href="Choosing the right estimator">http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</a> 
+<a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">Choosing the right estimator</a> 
 
 
 ### Ethnomethodology and conversation analysis:
 
-<a href="EMCA Wiki:">http://emcawiki.net/Main_Page</a> 
+<a href="http://emcawiki.net/Main_Page">EMCA Wiki:</a> 
 
 
 
-<a href="Interactional Linguistics Wiki (in German) on Institut der deutschen Sprache (IDS) website">http://prowiki.ids-mannheim.de/bin/view/GAIS/WebLinks#Allgemeine_Informationen</a>
+<a href="http://prowiki.ids-mannheim.de/bin/view/GAIS/WebLinks#Allgemeine_Informationen">Interactional Linguistics Wiki (in German) on Institut der deutschen Sprache (IDS) website</a>
 
 [back](./)
