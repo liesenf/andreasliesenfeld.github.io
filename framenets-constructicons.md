@@ -5,7 +5,7 @@ layout: default
 ## The application of framenets and constructicons in language technology
 
 
-How do we conceive of the world? What is the structure and composition of our concepts? How do we represent in our minds categories, individuals, relations, properties, events, or sentence meanings? Some of my work during my PhD studies was concerned with how (and if) concepts can be formalized and put to use as part of interactive language technology. I approached this question from the perspective of cognitive linguistics and frame semantics: 
+How do we conceive of the world? What is the structure and composition of our concepts? How do we represent in our minds categories, individuals, relations, properties, events, or sentence meanings? Some of my work during my PhD research was concerned with how concepts can be formalized and put to use in language technology. I approached this question from the perspective of cognitive linguistics and frame semantics: 
 
 "The point of departure is the hypothesis that there is a uniform structure of representations at the neural level, the level of linguistic concepts, and the level of institutionalized conceptions such as those used in science. This uniform structure is frames in the sense introduced by the cognitive psychologist Lawrence Barsalou. Barsalou frames describe what they represent in terms of attributes (for example shape, origin, or function) and the values they take. According to Barsalou’s theory of cognition, frames are grounded in, and interact with, the sensory-motor system. The human system of concepts is not abstract and amodal; rather it is immediately anchored with perception and action." (for more information, see <a href="https://frames.phil.uni-duesseldorf.de/"> SFB991: Collaborative Research Center on frames at Duesseldorf University</a>)
 
@@ -13,7 +13,9 @@ How do we conceive of the world? What is the structure and composition of our co
 
 Automatic extraction of frames and their features from text and talk:
 
-<a href="https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper298.pdf">Extracting construction networks from cantonese speech corpora using clustering algorithms</a>
+<a href="https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper298.pdf">Extracting construction networks from Cantonese speech corpora using clustering algorithms</a>
+
+<a href="https://clsw2020.lt.cityu.edu.hk/">Profiling Chinese cause-effect constructions with rang (讓), shi(使) and ling (令) using framesemantic features</a>
 
 Formalization and processing of non-lexical utterances in dialog and conversation:
 
