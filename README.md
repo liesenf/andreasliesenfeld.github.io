@@ -17,10 +17,8 @@ I also work as a conversation design consultant and currently write a book in th
 
 <br />
 
-Most of my work has been on Mandarin and Cantonese Chinese.<br />
-
-I'm a late naturalist under pressure. 
-"You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin<br />
+Late naturalist under pressure. 
+"You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin
 <br />
 
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 0.<br />
