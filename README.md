@@ -27,7 +27,7 @@ I'm a late naturalist under pressure. My <a href="https://en.wikipedia.org/wiki/
 
 <b>Experience:</b> <br>
 Postdoctoral Research Fellow, Linguistics Theory and Language Technology group (<a href="http://llt.cbs.polyu.edu.hk/">LTT</a>), The Hong Kong Polytechnic University, Hong Kong.<br>
-Ph.D, Nanyang Technological University, Singapore<br>
+PhD researcher, Nanyang Technological University, Singapore<br>
 Visiting fellow, Computational Linguistics, Düsseldorf University, Germany<br>
 Data scientist, Industry, Berlin, Germany<br>
 Journalist, Industry, Hong Kong/London.<br>
