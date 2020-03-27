@@ -21,9 +21,7 @@ Cognitive linguistics approaches to dialog parsing and tagging: <a href="https:/
 
  
 
-### Useful resources:
-
-Framenets around the world:
+### Framenets around the world:
 
  <a href="https://framenet.icsi.berkeley.edu/fndrupal/">Berkeley FrameNet</a>, the mother of all framenets
  
