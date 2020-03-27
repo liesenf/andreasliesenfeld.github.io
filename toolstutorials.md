@@ -2,60 +2,59 @@
 layout: default
 ---
 
-## Tools: 
+## Thought of the day: 
 
-1. MV parser (link)
+What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, social scientists call <a href="https://en.wikipedia.org/wiki/Grounded_theory">grounded theory</a>.
+
+## Processing Cantonese: 
+
+1. MV dialog parser (link)
 
 2. Pycantonese http://pycantonese.org/
 
-### Tutorials:
+### Annotation of speech-in-talk:
 
-1. Conversation analytic transcriptions in LaTeX
+1. Conversation analytic transcriptions in LaTeX (link)
 
-2. Multilayer annotation in Praat
+2. Multilayer annotation in Praat (link)
 
-### Useful links:
-
-What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, social scientists call <a href="https://en.wikipedia.org/wiki/Grounded_theory">grounded theory</a>.
+### Useful Praat scripts:
 
 http://praatscripting.lingphon.net
 
 
-## Pragmatic Theory:
+## Conversation analysis and pragmatics:
 
-What's wrong with speech act theory
-https://link.springer.com/article/10.1007%2FBF01305842
+ <a href="https://link.springer.com/article/10.1007%2FBF01305842">What's wrong with speech act theory</a>
 
-Problems of Speech Act Theory From an Applied Perspective
-https://www.researchgate.net/publication/227821140_Problems_of_Speech_Act_Theory_From_an_Applied_Perspective
-
-### Computational Pragmatics:
-
-Cohort model of lexcial access
-https://en.wikipedia.org/wiki/Cohort_model
+ <a href="https://www.researchgate.net/publication/227821140_Problems_of_Speech_Act_Theory_From_an_Applied_Perspective">Problems of Speech Act Theory From an Applied Perspective</a>
 
 
-### Complex Adaptive Networks:
+### Talk and Complex Adaptive Systems (CAS):
 
-Book on languages as CAS
-https://www.amazon.com/Language-as-Complex-Adaptive-System/dp/144433400X
-
-
-### Machine Learning:
-
-Colah's blog on machine learning
-http://colah.github.io/
-
-Choosing the right estimator
-http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+ <a href="https://www.amazon.com/Language-as-Complex-Adaptive-System/dp/144433400X">Paper collection of languages as CAS
+</a>
 
 
-### Interactional Linguistics:
+### Machine learning for dialog systems and conversational AI:
 
-EMCA Wiki:
-http://emcawiki.net/Main_Page
+ <a href="Colah's famous blog on machine learning
+">http://colah.github.io/
+</a>
 
-Interactional Linguistics Wiki (in German) on Institut der deutschen Sprache (IDS) website:
-http://prowiki.ids-mannheim.de/bin/view/GAIS/WebLinks#Allgemeine_Informationen
+
+<a href="Choosing the right estimator
+">http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</a> 
+
+
+### Ethnomethodology and conversation analysis:
+
+<a href="EMCA Wiki:
+">http://emcawiki.net/Main_Page</a> 
+
+
+
+<a href="Interactional Linguistics Wiki (in German) on Institut der deutschen Sprache (IDS) website">
+http://prowiki.ids-mannheim.de/bin/view/GAIS/WebLinks#Allgemeine_Informationen</a>
 
 [back](./)
