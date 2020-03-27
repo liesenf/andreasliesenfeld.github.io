@@ -15,7 +15,7 @@ Automatic extraction of frames and their features from text and talk:
 
 <a href="https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper298.pdf">Extracting construction networks from Cantonese speech corpora using clustering algorithms</a>
 
-<a href="https://clsw2020.lt.cityu.edu.hk/">Profiling Chinese cause-effect constructions with rang (讓), shi(使) and ling (令) using framesemantic features</a>
+<a href="https://clsw2020.lt.cityu.edu.hk/">Profiling Chinese cause-effect constructions with rang (讓), shi (使) and ling (令) using framesemantic features</a>
 
 Formalization and processing of non-lexical utterances in dialog and conversation:
 
