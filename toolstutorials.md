@@ -38,23 +38,19 @@ http://praatscripting.lingphon.net
 
 ### Machine learning for dialog systems and conversational AI:
 
- <a href="Colah's famous blog on machine learning
-">http://colah.github.io/
+ <a href="Colah's famous blog on machine learning">http://colah.github.io/
 </a>
 
 
-<a href="Choosing the right estimator
-">http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</a> 
+<a href="Choosing the right estimator">http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</a> 
 
 
 ### Ethnomethodology and conversation analysis:
 
-<a href="EMCA Wiki:
-">http://emcawiki.net/Main_Page</a> 
+<a href="EMCA Wiki:">http://emcawiki.net/Main_Page</a> 
 
 
 
-<a href="Interactional Linguistics Wiki (in German) on Institut der deutschen Sprache (IDS) website">
-http://prowiki.ids-mannheim.de/bin/view/GAIS/WebLinks#Allgemeine_Informationen</a>
+<a href="Interactional Linguistics Wiki (in German) on Institut der deutschen Sprache (IDS) website">http://prowiki.ids-mannheim.de/bin/view/GAIS/WebLinks#Allgemeine_Informationen</a>
 
 [back](./)
