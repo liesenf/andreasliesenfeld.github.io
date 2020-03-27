@@ -17,7 +17,7 @@ I also work as a conversation design consultant and currently write a book in th
 
 <br />
 
-Late naturalist under pressure. 
+Late naturalist under pressure. <br />
 "You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin
 <br />
 
