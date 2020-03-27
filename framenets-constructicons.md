@@ -29,7 +29,7 @@ Cognitive linguistics approaches to dialog parsing and tagging:
 
  
 
-## Useful resources:
+### Useful resources:
 
 Framenets:
 
@@ -53,7 +53,7 @@ Chinese verbnet:
 
 <a href="http://verbnet.lt.cityu.edu.hk/#/">Mandarin Verbnet</a> 
 
-## Models of Lexical Access
+### Models of Lexical Access
 
 1st gen: FOBS 
 2nd gen: TRACE, COHORT 
