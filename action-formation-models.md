@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Notes on developing dialog systems and voice assistants
+# Notes on developing dialog systems and voice assistant tools
 
 
 The developement of speech technology is guided by the following principles (Gillis et al. 2009):
