@@ -9,7 +9,7 @@ How do we conceive of the world? What is the structure and composition of our co
 
 "The point of departure is the hypothesis that there is a uniform structure of representations at the neural level, the level of linguistic concepts, and the level of institutionalized conceptions such as those used in science. This uniform structure is frames in the sense introduced by the cognitive psychologist Lawrence Barsalou. Barsalou frames describe what they represent in terms of attributes (for example shape, origin, or function) and the values they take. According to Barsalou’s theory of cognition, frames are grounded in, and interact with, the sensory-motor system. The human system of concepts is not abstract and amodal; rather it is immediately anchored with perception and action." (for more information, see <a href="https://frames.phil.uni-duesseldorf.de/"> SFB991: Collaborative Research Center on frames at Duesseldorf University</a>)
 
-### Related studies and publications:
+### Related publications:
 
 Automatic extraction of frames and their features from text and talk:
 
