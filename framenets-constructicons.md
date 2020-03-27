@@ -11,7 +11,7 @@ How do we conceive of the world? What is the structure and composition of our co
 
 ### Related publications:
 
-Automatic extraction of frames and their features from text and talk:
+Towards automatic extraction of frames and their features from text and talk:
 
 <a href="https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper298.pdf">Extracting construction networks from Cantonese speech corpora using clustering algorithms</a>
 
