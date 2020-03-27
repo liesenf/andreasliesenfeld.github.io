@@ -2,7 +2,9 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a computational linguist with a professional background in data science and a passion for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I develop tools for voice assistants and dialog agents. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>.<br />
+I am a computational linguist with a professional background in data science and a passion for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I develop tools for voice assistants and dialog agents. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>.<br /> Late naturalist under pressure. <br />
+"You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin
+<br />
 
 <br />
 <b>Email:</b> <br> 
@@ -15,10 +17,6 @@ My main research interest is the study of human-human and human-technology inter
 
 I also work as a conversation design consultant and currently write a book in this area.<br />
 
-<br />
-
-Late naturalist under pressure. <br />
-"You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin
 <br />
 
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 0.<br />
