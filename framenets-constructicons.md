@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The application of framenets and constructicons in language technology
+## Applications of framenets and constructicons in language technology
 
 
 How do we conceive of the world? What is the structure and composition of our concepts? How do we represent in our minds categories, individuals, relations, properties, events, or sentence meanings? Some of my work during my PhD research was concerned with how concepts can be formalized and put to use in language technology. I approached this question from the perspective of cognitive linguistics and frame semantics: 
