@@ -19,12 +19,12 @@ I also work as a conversation design consultant and currently write a book in th
 
 Most of my work has been on Mandarin and Cantonese Chinese.<br />
 
-I'm a late naturalist under pressure. My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 0.<br />
-
+I'm a late naturalist under pressure. 
 "You must collect things for reasons you don’t yet understand." —Daniel J. Boorstin<br />
 <br />
 
-
+My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 0.<br />
+<br />
 <b>Experience:</b> <br>
 Postdoctoral Research Fellow, Linguistics Theory and Language Technology group (<a href="http://llt.cbs.polyu.edu.hk/">LTT</a>), The Hong Kong Polytechnic University, Hong Kong.<br>
 PhD researcher, Nanyang Technological University, Singapore<br>
