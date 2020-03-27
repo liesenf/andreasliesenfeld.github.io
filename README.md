@@ -7,6 +7,7 @@ I am a computational linguist with a professional background in data science and
 What could go wrong with that?
 
 <br />
+<br />
 <b>Email:</b> <br> 
 lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
