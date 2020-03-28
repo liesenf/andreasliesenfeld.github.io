@@ -11,7 +11,7 @@ Here I collect links that I found useful. All things related to the science and 
 
 #### Tutorial: How to build your own offline speech recognition on a Raspberry Pi:
 
-<a href="https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7">Original tutorial on Hackster.io theory</a>
+<a href="https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7">Original tutorial on Hackster.io</a>
 
 #### Annotation of speech-in-talk:
 
