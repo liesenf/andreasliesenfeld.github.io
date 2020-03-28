@@ -2,13 +2,13 @@
 layout: default
 ---
 
-### The science and engineering of talk
-
-Here I collect links that I found useful. All things related to the science and engineering of talk. 
-
 #### Thought of the day: 
 
 What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, social scientists call <a href="https://en.wikipedia.org/wiki/Grounded_theory">grounded theory</a>.
+
+## The science and engineering of talk
+
+Here I collect links that I found useful. All things related to the science and engineering of talk. 
 
 #### Tutorial: How to build your own offline speech recognition on a Raspberry Pi:
 
