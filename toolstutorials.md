@@ -32,11 +32,14 @@ Here I collect links that I found useful. All things related to the science and 
 http://praatscripting.lingphon.net
 
 
-### Machine learning for dialog systems and conversational AI links:
+#### Machine learning for dialog systems and conversational AI links:
 
  <a href="http://colah.github.io/">Colah's famous blog on machine learning
 </a>
 
+<a href="https://medium.com/predict/creating-a-chatbot-from-scratch-using-keras-and-tensorflow-59e8fc76be79">Build your own open source chatbot beginner tutorial</a> 
+
+<a href="https://heartbeat.fritz.ai/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c">2019 guide to automatic speech recognition</a> 
 
 <a href="http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">Choosing the right estimator</a> 
 
