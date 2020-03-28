@@ -3,7 +3,6 @@ layout: default
 ---
 
 ##### Thought of the day: 
-
 <i>What developers call <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development</a>, social scientists call <a href="https://en.wikipedia.org/wiki/Grounded_theory">grounded theory</a></i>.
 
 ## The science and engineering of talk
