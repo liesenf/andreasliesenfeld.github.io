@@ -29,7 +29,7 @@ Here I collect links that I found useful. All things related to the science and 
 http://praatscripting.lingphon.net
 
 
-#### Machine learning for dialog systems and conversational AI links:
+#### Machine learning for dialog systems:
 
  <a href="http://colah.github.io/">Colah's famous blog on machine learning
 </a>
