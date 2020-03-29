@@ -16,7 +16,7 @@ Towards automatic extraction of frames and their features from text and talk: <a
 Formalization and processing of non-lexical utterances in dialog and conversation: <a href="https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48112&item_no=1&attribute_id=101&file_no=1
 ">Cantonese turn-initial minimal particles: annotation of discourse-interactional functions in dialog corpora</a>
 
-Cognitive linguistics approaches to dialog parsing and tagging: <a href="https://www.aclweb.org/anthology/W17-7407.pdf
+Cognitive linguistic approaches to dialog parsing and tagging: <a href="https://www.aclweb.org/anthology/W17-7407.pdf
 ">Project notes on building a conversation parser on top of a text parser: Towards a causal language tagger for spoken Chinese</a>
 
  
