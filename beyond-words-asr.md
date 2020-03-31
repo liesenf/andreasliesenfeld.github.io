@@ -14,7 +14,7 @@ This field of inquiry is concerned with the study of talk-in-interaction in its 
 conversation-analytic description of a "syntax" of talk-in-interaction, mostly focusing on its sequential unfolding:
  <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology and conversation analysis</a> 
  
-#### Minimal tokens
+#### Minimal particles
 
 #### Laughter
 
