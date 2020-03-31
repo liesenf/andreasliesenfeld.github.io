@@ -19,7 +19,7 @@ Personal names can contain a large number of possible, sometimes rare, character
 	     Which Zhang?
     	 
 	 S1: "弓长张"
-	     The `zhang' character (张) with a gong (弓) and a chang (长) component.}
+	     The 'zhang' character (张) with a gong (弓) and a chang (长) component.}
 	    	  
 	
 (2) Example word strategy:
