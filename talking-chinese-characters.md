@@ -28,7 +28,7 @@ Personal names can contain a large number of possible, sometimes rare, character
 	     My last name is Wang. The 'wang'(王) character in the word 'king' (国王).
 
 
-### System amd conversation design 
+### Conversation and system design 
 
 We attempt to model these two strategies that speakers in real-world conversation use to disambiguate Chinese characters in personal names. To achieve this, our bot consists of several Chinese character databases and a voice interface linked to a decision tree with a depth of 2 to 12 question-response pairs. The tree mainly consists of routines that select and confirm candidate characters, as well as several repair and fallback repair loops. 
 
