@@ -13,19 +13,19 @@ Personal names can contain a large number of possible, sometimes rare, character
 (1) Component description strategy:
  
 	 S1: "我姓张"
-	     <i>My last name is Zhang.</i>
+	     My last name is Zhang.
     	 
 	 S2: "哪个张?"
-	     <i>Which Zhang?</i>
+	     Which Zhang?
     	 
 	 S1: "弓长张"
-	     <i>The `zhang' character (张) with a gong (弓) and a chang (长) component.}</i>
+	     The `zhang' character (张) with a gong (弓) and a chang (长) component.}
 	    	  
 	
 (2) Example word strategy:
 	
 	 S1: "我姓王 国王的王"
-	     <i>My last name is Wang. The 'wang'(王) character in the word 'king' (国王).</i>
+	     My last name is Wang. The 'wang'(王) character in the word 'king' (国王).
 
 
 
