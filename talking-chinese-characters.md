@@ -33,7 +33,7 @@ Namespec is an attempt to model these two strategies that speakers in real-world
 
 
 
-<iframe allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/1779b520-551f-4bbf-bc9c-0a5154f217e0">
+<iframe allow="microphone;" width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/1779b520-551f-4bbf-bc9c-0a5154f217e0">
 </iframe>
 
 
