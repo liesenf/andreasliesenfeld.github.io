@@ -8,9 +8,11 @@ layout: default
 
 ** UNDER CONSTRUCTION **
 
-We develop a voice assistant that helps the user specify Chinese characters in personal names through dialog. In natural conversation this task arises when speakers want to know how the name of a person is written. Which characters the speaker is referring to can often not be directly inferred from the pronunciation of the name due to the large number of homophones in Mandarin Chinese personal names. Modeling this task using a voice interface is challenging due to a number of reasons. 
+We develop a voice assistant that helps the user specify Chinese characters in personal names through dialog. In natural conversation this task arises when speakers want to know how the name of a person is written. Which characters the speaker is referring to can often not be directly inferred from the pronunciation of the name due to the large number of homophones in Mandarin Chinese personal names. Names can also contain a large number of possible, sometimes rare, characters, a few hundred possible pronunciations need to be mapped to several thousand possible characters. This makes modeling the capacity to specify Chinese characters through dialog a challenging task. The aim of this 2-year project at Hong Kong Polytechnic University is to develop a bot that is able to specify characters through a voice interface with the user. This involves an empirical analysis of strategies that speakers use to solve this task, the collection of Chinese personal name databases and the development of a Natural Language Understanding (NLU) module that provides relevant dialog flow, intent recognition and repair functions.
 
-Personal names can contain a large number of possible, sometimes rare, characters, a few hundred possible pronunciations need to be mapped to several thousand possible characters. This usually requires the speaker to provide additional information of the features or form of the characters in question. Two strategies are common. Speakers may describe components of the character in question. Or speakers may provide an example of a word that contains the character in question. 
+### User-driven conversation design and system development
+
+In real-world conversation speakers employ various strategies to specify features or form of the Chinese characters in question. Two strategies are common. Speakers may describe components of the character in question. Or speakers may provide an example of a word that contains the character in question. 
 	
 (1) Component description strategy:
  
@@ -30,7 +32,7 @@ Personal names can contain a large number of possible, sometimes rare, character
 	     My last name is Wang. The 'wang'(王) character in the word 'king' (国王).
 
 
-### User-driven conversation and system design 
+
 
 We model two strategies that speakers in real-world conversation use to disambiguate Chinese characters in personal names. Our bot is built around a range of Chinese character databases linked to a voice interface in form of a decision tree with a depth of 2 to 12 question-response pairs. The tree mainly consists of routines that select and confirm candidate characters, as well as several repair and fallback repair loops. 
 
