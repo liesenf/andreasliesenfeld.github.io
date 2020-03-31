@@ -32,7 +32,7 @@ Personal names can contain a large number of possible, sometimes rare, character
 
 ### Conversation and system design 
 
-We attempt to model these two strategies that speakers in real-world conversation use to disambiguate Chinese characters in personal names. Our bot is built around a range of Chinese character databases linked to a voice interface in form of a decision tree with a depth of 2 to 12 question-response pairs. The tree mainly consists of routines that select and confirm candidate characters, as well as several repair and fallback repair loops. 
+We model two strategies that speakers in real-world conversation use to disambiguate Chinese characters in personal names. Our bot is built around a range of Chinese character databases linked to a voice interface in form of a decision tree with a depth of 2 to 12 question-response pairs. The tree mainly consists of routines that select and confirm candidate characters, as well as several repair and fallback repair loops. 
 
 
 
