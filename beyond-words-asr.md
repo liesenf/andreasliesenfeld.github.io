@@ -4,7 +4,7 @@ layout: default
 
 ## The "Beyond words speech recognition" project
 
- <i> Keywords: speech recognition *** non-lexical utterances *** laughter </i>
+ <i> Keywords: speech recognition *** minimal particles *** laughter </i>
 
 
 This field of inquiry is concerned with the study of talk-in-interaction in its 'natural habitat', causal everyday social interaction that takes place within the <a href="https://en.wikipedia.org/wiki/Turn-taking">turn-taking system</a>.
