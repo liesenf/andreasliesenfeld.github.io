@@ -32,6 +32,7 @@ Personal names can contain a large number of possible, sometimes rare, character
 Namespec is an attempt to model these two strategies that speakers in real-world conversation use to disambiguate Chinese characters in personal names. To achieve this, Namespec consists of several Chinese character databases and a voice interface linked to a decision tree with a depth of 2 to 12 question-response pairs. The tree mainly consists of routines that select and confirm candidate characters, as well as several repair and fallback repair loops. To date, Namespec has undergone a round of user trails (n=100) as well as a conversation analysis-inspired qualitative test trail that both focused on improving intent recognition capabilities and user experience. 
 
 
+
 <iframe
     allow="microphone;"
     width="350"
