@@ -4,6 +4,8 @@ layout: default
 
 ## The "Talking (about) Chinese Characters" project
 
+
+
 ** UNDER CONSTRUCTION **
 
 We develop a voice assistant that helps the user specify Chinese characters in personal names through dialog. In natural conversation this task arises when speakers want to know how the name of a person is written. Which characters the speaker is referring to can often not be directly inferred from the pronunciation of the name due to the large number of homophones in Mandarin Chinese personal names. Modeling this task using a voice interface is challenging due to a number of reasons. 
