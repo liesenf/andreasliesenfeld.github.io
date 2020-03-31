@@ -8,7 +8,14 @@ layout: default
 
 ** UNDER CONSTRUCTION **
 
-This field of inquiry is concerned with the study of talk-in-interaction in its 'natural habitat', causal everyday social interaction that takes place within the <a href="https://en.wikipedia.org/wiki/Turn-taking">turn-taking system</a>.
+ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved (post-)"human-level performance" and Youtube can automatically create captions for any video, research in the field increasingly focuses on all the other things that humans utter when conversing with each other. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections? 
+
+The transcription, formalization and processing of 
+
+
+There is more to speech recognition than the automatic creation of subtitles.
+
+The aim of this 2-year project of the <a href="http://llt.cbs.polyu.edu.hk/">PolyU Linguistics Theory and Language Technology (LTT) group</a> in Hong Kong is to develop a bot that is able to specify characters through a voice interface with the user. This involves an empihis field of inquiry is concerned with the study of talk-in-interaction in its 'natural habitat', causal everyday social interaction that takes place within the <a href="https://en.wikipedia.org/wiki/Turn-taking">turn-taking system</a>.
 
 ### Current speech recognition and the transcription of non-lexical utterances
 conversation-analytic description of a "syntax" of talk-in-interaction, mostly focusing on its sequential unfolding:
