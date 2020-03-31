@@ -12,7 +12,7 @@ Personal names can contain a large number of possible, sometimes rare, character
 <i>
 
 	
-         (1) Component description stratgey:
+(1) Component description stratgey:
 	 
 	 S1: "我姓张"
 	     My last name is Zhang.
@@ -22,8 +22,9 @@ Personal names can contain a large number of possible, sometimes rare, character
     	 
 	 S1: "弓长张"
 	     The `zhang' character (张) with a gong (弓) and a chang (长) component.}
+	    	  
 	
-	(2) Example word strategy:
+(2) Example word strategy:
 	
 	 S1: "我姓王 国王的王"
 	     "My last name is Wang. The 'wang'(王) character in the word 'king' (国王).
