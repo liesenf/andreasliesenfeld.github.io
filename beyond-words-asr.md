@@ -8,14 +8,11 @@ layout: default
 
 ** UNDER CONSTRUCTION **
 
-ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved (post-)"human-level performance" and Youtube can automatically create captions for any video, research in the field increasingly focuses on all the other things that humans utter when conversing with each other. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections? 
+ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved (post-)"human-level performance" and Youtube can automatically create captions for any video, research in the field increasingly focuses on all the other things  that humans utter in conversation - beyond clean, grammatical sentences. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections? 
+These utterances are often meaningful rather than accidental and can alter the actions that speakers formulate. Current speech recogntion tech, however, is notoriously bad at recognizing and transcribing such utterances, mainly because that is not what these commercial systems were designed for and because many systems are trained on clean audio-book data instead of on "messy" everyday talk. 
 
-The transcription, formalization and processing of 
+The aim of this 2-year project of the <a href="http://llt.cbs.polyu.edu.hk/">PolyU Linguistics Theory and Language Technology (LTT) group</a> in Hong Kong is to contribute to the development of more robust automatic speech recognition for processing non-lexical utterances, i.e. all utterances that are not clean, clear words. Focusing on everyday Chinese talk, the "Beyond words ASR" project involves both the exploratory analysis of talk-in-interaction with a focus on developing formal models of non-lexical utterances and their functions, and the incoporation of these models in current automatic speech recognition systems. There is more to speech recognition than the automatic creation of subtitles and we are just getting started to dig deeper into systematically transcribing and processing more aspects of real-world everyday conversations.
 
-
-There is more to speech recognition than the automatic creation of subtitles.
-
-The aim of this 2-year project of the <a href="http://llt.cbs.polyu.edu.hk/">PolyU Linguistics Theory and Language Technology (LTT) group</a> in Hong Kong is to develop a bot that is able to specify characters through a voice interface with the user. This involves an empihis field of inquiry is concerned with the study of talk-in-interaction in its 'natural habitat', causal everyday social interaction that takes place within the <a href="https://en.wikipedia.org/wiki/Turn-taking">turn-taking system</a>.
 
 ### Current speech recognition and the transcription of non-lexical utterances
 conversation-analytic description of a "syntax" of talk-in-interaction, mostly focusing on its sequential unfolding:
