@@ -6,7 +6,7 @@ layout: default
 
 
 
-** voice bot development ** conversation design ** dialog system **
+Keywords: *** voice bot development *** conversation design *** dialog system
 
 We develop a voice assistant that helps the user specify Chinese characters in personal names through dialog. In natural conversation this task arises when speakers want to know how the name of a person is written. Which characters the speaker is referring to can often not be directly inferred from the pronunciation of the name due to the large number of homophones in Mandarin Chinese personal names. Names can also contain a large number of possible, sometimes rare, characters, a few hundred possible pronunciations need to be mapped to several thousand possible characters. This makes modeling the capacity to specify Chinese characters through dialog a challenging task. The aim of this 2-year project of the <a href="http://llt.cbs.polyu.edu.hk/">PolyU Linguistics Theory and Language Technology (LTT) group</a> in Hong Kong is to develop a bot that is able to specify characters through a voice interface with the user. This involves an empirical analysis of strategies that speakers use to solve this task, the collection of relevant Chinese personal name databases and the development of a Natural Language Understanding (NLU) module that provides dialog flow, intent recognition and repair functions.
 
