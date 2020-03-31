@@ -9,10 +9,8 @@ layout: default
 We present a voice bot that specifies Chinese characters in personal names through dialog with the user. In natural conversation this task arises when speakers want to know how the name of a person is written. Which characters the speaker is referring to can often not be directly inferred from the pronunciation of the name due to the large number of homophones in Mandarin Chinese personal names. Modeling this task using a voice interface is challenging due to a number of reasons. 
 
 Personal names can contain a large number of possible, sometimes rare, characters, a few hundred possible pronunciations need to be mapped to several thousand possible characters. This usually requires the speaker to provide additional information of the features or form of the characters in question. To do this two strategies are common: Speakers may describe components of the character in question (1). Or speakers may provide an example of a word that contains the character in question (2). 
-
-
 	
-(1) Component description stratgey:
+(1) Component description strategy:
  
 	 S1: "我姓张"
 	     My last name is Zhang.
