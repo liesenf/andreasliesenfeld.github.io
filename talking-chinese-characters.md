@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The "Talking (about) Chinese Characters" project
+## Talking (about) Chinese Characters
 
 
 
