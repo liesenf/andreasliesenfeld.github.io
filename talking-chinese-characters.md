@@ -33,14 +33,13 @@ Preliminary results show that speakers use at least two strategies to specify fe
 	     My last name is Wang. The 'wang'(王) character in the word 'king' (国王).
 
 
-Building on these insights, we model strategies that speakers use to disambiguate Chinese characters in personal names. We use a decision tree-based bot development environment with integrated speech recognition capabilities [1] [2]. Our bot consists of two main components:
+Building on these insights, we model strategies that speakers use to disambiguate Chinese characters in personal names. We use a decision tree-based bot development environment with integrated speech recognition capabilities [1] [2]. The bot consists of two main components:
 
-(1) databases that contain relevant Chinese characters for Chinese last name processing (n=400) and given name processing (n=19000).
+(1) collections of relevant Chinese characters for Chinese last name processing (n=400) and given name processing (n=19000).
 
 (2) a voice interface with integrated intent recognition (rule-based and machine learning-based) that navigates the decision tree with the user (currently of a depth of 2 to 12 question-response pairs).
 
-In addition to these two main components the bot also features a range of additional modules that provide additional navigation capabilities such as fallback repair loops and fast-track tree navigation for advanced user models. The bot can be employed as a stand-alone voice interface or integrated in existing voice assistant ecosystems such as Actions-on-Google, Alexa Skills or Wit.ai.
-
+In addition to these two main components the bot also features a ranking algortihm that selects Characters based on user input as well as a range of additional modules that provide additional navigation capabilities such as fallback repair loops and tree navigation shortcuts for advanced users. The bot can be employed as a stand-alone voice interface or integrated in existing voice assistant ecosystems such as Actions-on-Google, Alexa Skills or Wit.ai.
 
 
 <iframe allow="microphone;" width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/1779b520-551f-4bbf-bc9c-0a5154f217e0">
