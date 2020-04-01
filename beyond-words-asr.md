@@ -4,7 +4,7 @@ layout: default
 
 ## The "Beyond words speech recognition" project
 
- <i> Keywords: speech recognition *** minimal particles *** laughter </i>
+ <i> Keywords: speech recognition *** non-lexical utterances *** laughter </i>
 
 ** UNDER CONSTRUCTION **
 
