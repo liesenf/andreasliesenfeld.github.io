@@ -48,8 +48,16 @@ In addition to these two main components the bot also features a ranking algorti
 
 ### User experience evaluation
 
-After the development of a working prototype, 
-To date, our system has undergone a round of user trails (n=100) as well as a conversation analysis-inspired qualitative test trail that both focused on improving intent recognition capabilities and user experience. 
+After the development of a working prototype, we ground the further development of our dialog flow and intent recognition capabilities on user feedback and user experience evaluation. 
+
+To date, our system has undergone a round of preliminary user trails. Three types of data were collected. 
+
+(1) User analytics in form of system logs that provide information on user input and dialog progression.
+
+(2) video recordings of human-voice bot interaction that provide observational data on user experience 
+
+(3) self-reported user experience evaluation based on feeback surveys and semi-structured interviews
+
 
 
 
