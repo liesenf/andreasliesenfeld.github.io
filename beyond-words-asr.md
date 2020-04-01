@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## The "Beyond words speech recognition" project
+## Beyond words speech recognition
 
  <i> Keywords: speech recognition *** non-lexical utterances *** laughter </i>
 
