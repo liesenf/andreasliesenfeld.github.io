@@ -33,9 +33,13 @@ Preliminary results show that speakers use at least two strategies to specify fe
 	     My last name is Wang. The 'wang'(王) character in the word 'king' (国王).
 
 
-Building on these insights, we model strategies that speakers use to disambiguate Chinese characters in personal names. 
+Building on these insights, we model strategies that speakers use to disambiguate Chinese characters in personal names. We use a decision tree-based bot development environment with integrated speech recognition capabilities [1] [2]. Our bot consists of two main components:
 
-Our bot is built around a range of Chinese character databases linked to a voice interface in form of a decision tree with a depth of 2 to 12 question-response pairs. The tree mainly consists of routines that select and confirm candidate characters, as well as several repair and fallback repair loops. 
+(1) databases that contain relevant Chinese characters for Chinese last name processing (n=400) and given name processing (n=19000).
+
+(2) a voice interface with integrated intent recognition (rule-based and machine learning-based) that navigates the decision tree with the user (currently of a depth of 2 to 12 question-response pairs).
+
+In addition to these two main components the bot also features a range of additional modules that provide additional navigation capabilities such as fallback repair loops and fast-track tree navigation for advanced user models. The bot can be employed as a stand-alone voice interface or integrated in existing voice assistant ecosystems such as Actions-on-Google, Alexa Skills or Wit.ai.
 
 
 
@@ -45,9 +49,13 @@ Our bot is built around a range of Chinese character databases linked to a voice
 
 ### User experience evaluation
 
-After designing a working prototype 
-
+After the development of a working prototype, 
 To date, our system has undergone a round of user trails (n=100) as well as a conversation analysis-inspired qualitative test trail that both focused on improving intent recognition capabilities and user experience. 
 
+References:
+
+Google. 2020. Dialog Flow. https://dialogflow.com/ Accessed: 2020-03-02
+
+Google. 2020. Google Cloud Speech API. https://cloud.google.com/speech-to-text Accessed: 2020-03-02
 
 [back](./)
