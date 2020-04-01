@@ -9,9 +9,12 @@ layout: default
 
 Here I collect links that I found useful. All things related to the science and engineering of talk.
 
-#### Tutorial: How to build your own offline speech recognition on a Raspberry Pi:
+#### Tutorial: How to build your own offline speech recognition system for Mandarin on a Raspberry Pi:
 
-<a href="https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7">Hackster.io</a>
+This is a tutorial for an offline, open-source speech recognition system for Mandarin Chinese that consumes speech and produces subtitle-like transcriptions. The system is built using Mozilla's Deep Speech 0.6 open-source ASR engine. The guide is based on a similar tutorial by <a href="https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7">Dmitry Maslov</a> on Hackster.io for English.
+
+** UNDER CONSTRUCTION ** 
+
 
 #### Annotation of speech-in-talk:
 
