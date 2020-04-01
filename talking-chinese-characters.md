@@ -48,6 +48,8 @@ Our bot is built around a range of Chinese character databases linked to a voice
 
 ### User experience evaluation
 
+After designing a working prototype 
+
 To date, our system has undergone a round of user trails (n=100) as well as a conversation analysis-inspired qualitative test trail that both focused on improving intent recognition capabilities and user experience. 
 
 
