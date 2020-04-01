@@ -52,7 +52,9 @@ In addition to these two main components the bot also features a range of additi
 After the development of a working prototype, 
 To date, our system has undergone a round of user trails (n=100) as well as a conversation analysis-inspired qualitative test trail that both focused on improving intent recognition capabilities and user experience. 
 
-References:
+
+
+#### References:
 
 Google. 2020. Dialog Flow. https://dialogflow.com/ Accessed: 2020-03-02
 
