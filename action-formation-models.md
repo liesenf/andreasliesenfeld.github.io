@@ -5,7 +5,7 @@ layout: default
 # Notes on developing dialog systems and voice assistant tools
 
 
-The developement of speech technology is guided by the following principles (Gillis et al. 2009):
+The development of speech technology is guided by the following principles (Gillis et al. 2009):
 
 <i>problem reduction</i>: a task is decomposed into a number of simpler substasks which can be further decomposed until subtasks are distinguished which can directly be modeled and implemented.
 
