@@ -14,7 +14,7 @@ We develop a voice assistant that helps the user specify Chinese characters in p
 
 Our approach to voice interface design is grounded in understanding human interaction. How do speakers specify characters in real world talk? What strategies do they use and how can we describe their actions systematically? We employ video-based analysis of real-world interaction to explore these questions.
 
-Preliminary results show that speakers use two strategies to specify features or form of Chinese characters in question. Speakers may describe components of the character in question. Or speakers may provide an example of a word that contains the character in question. 
+Preliminary results show that speakers use at least two strategies to specify features or form of Chinese characters in question. Speakers may describe components of the character in question (1). Or speakers may provide an example of a word that contains the character in question (2). 
 	
 (1) Component description strategy:
  
