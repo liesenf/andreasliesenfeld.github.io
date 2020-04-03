@@ -15,14 +15,14 @@ This is a tutorial for an offline, open-source speech recognition system for Man
 
 We are building an Speech-to-text (STT) module for the use in voice bots. Within a voice bot ecosystem, the job of this module is to consumes speech and computes subtitle-like transcripts from it.
 
-        +---+   +----------------+   +---+   +---+   +---+
-        |Mic|-->|Audio Processing|-->|KWS|-->|STT|-->|NLU|
-        +---+   +----------------+   +---+   +---+   +-+-+
-                                                       |
-                                                       |
-        +-------+   +---+   +----------------------+   |
-        |Speaker|<--|TTS|<--|Knowledge/Skill/Action|<--+
-        +-------+   +---+   +----------------------+
+             !      +---+   +----------------+   +---+   +---+   +---+
+         ( ͡° ͜ʖ ͡°)-->|Mic|-->|Audio Processing|-->|KWS|-->|STT|-->|NLU|
+                    +---+   +----------------+   +---+   +---+   +-+-+
+                                                                   |
+                                                                   |
+             ?      +-------+   +---+   +----------------------+   |
+         ( ͡° ͜ʖ ͡°)<--|Speaker|<--|TTS|<--|Knowledge/Skill/Action|<--+
+                    +-------+   +---+   +----------------------+
 
 
 ** UNDER CONSTRUCTION ** 
