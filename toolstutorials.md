@@ -13,6 +13,16 @@ Here I collect links that I found useful. All things related to the science and 
 
 This is a tutorial for an offline, open-source speech recognition system for Mandarin Chinese that consumes speech and produces subtitle-like transcriptions. The system is built using Mozilla's Deep Speech 0.6 open-source ASR engine. The guide is based on a similar tutorial by <a href="https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7">Dmitry Maslov</a> on Hackster.io for English.
 
++---+   +----------------+   +---+   +---+   +---+
+|Mic|-->|Audio Processing|-->|KWS|-->|STT|-->|NLU|
++---+   +----------------+   +---+   +---+   +-+-+
+                                               |
+                                               |
++-------+   +---+   +----------------------+   |
+|Speaker|<--|TTS|<--|Knowledge/Skill/Action|<--+
++-------+   +---+   +----------------------+
+
+
 ** UNDER CONSTRUCTION ** 
 
 
