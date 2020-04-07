@@ -1,4 +1,4 @@
-<font color="red">&#9733;&#9733;&#9733; Upcoming: Looking forward to presenting at ECCA 2020 in Nijmegen, 29-30 June 2020. &#9733;&#9733;&#9733;</font><br />
+<font color="red">&#9733;&#9733;&#9733; Upcoming: Looking forward to presenting at ECCA2020 and CLSW2020 this summer. &#9733;&#9733;&#9733;</font><br />
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
