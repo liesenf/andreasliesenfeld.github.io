@@ -13,7 +13,7 @@ Here I collect links that I found useful. All things related to understanding an
 
 This is a tutorial for an offline, open-source speech recognition system for Mandarin Chinese that consumes speech and produces subtitle-like transcriptions. Live and faster than real time. The system is built using Mozilla's Deep Speech 0.6 open-source ASR engine. The guide is in large parts based on two existing tutorials <a href="https://www.hackster.io/dmitrywat/offline-speech-recognition-on-raspberry-pi-4-with-respeaker-c537e7">Dmitry Maslov's guide to live Deepspeech on Raspberry Pi on Hackster.io</a> and <a href="https://discourse.mozilla.org/t/tutorial-how-i-trained-a-specific-french-model-to-control-my-robot/22830">elpimous_robot's guide to running custom language models on Deepspeech</a>.
 
-We are building a Speech-to-text (STT) module for the use in voice bot speech processing pipelines. Within a typical voice bot ecosystem the job of this module is to consumes speech and compute subtitle-like transcripts from it.
+We are building a Speech-to-text (STT) module for the use in voice bot speech processing pipelines. Within a typical voice bot ecosystem the job of this module is to consumes speech and compute subtitle-like transcripts from it. Our module will first convert raw audio into feature representations and then turn them into transcribed text.
 
              !      +---+   +----------------+   +---+   +---+   +---+
          ( ͡° ͜ʖ ͡°) < |Mic|-->|Audio Processing|-->|KWS|-->|STT|-->|NLU|
