@@ -37,6 +37,8 @@ this ist he first part whenre the CA person would say
 
 %% UNDER CONSTRUCTION
 
+specialist ASR for specialist NLU modules such as sentiment, emotion and stance detection, phonetic asr (microsoft speech-to-phone link)
+
 ## Principles of speech technology and system design
 
 
