@@ -8,9 +8,7 @@ This blog aims to get two groups of people talking to each other more. The peopl
 
 ## The quest for more natural dialogs between humans and technology 
 
-Conversational AI is the field that works to bring about new ways of how humans and technology interact using speech. Or, commerically speaking, the field that enables and enhances user experiences of voice-enabled products. Part of this is to create experiences that make the user feel as if s/he is talking to a human. Voice-enabled technology becomes part of our life when we are woken up by a virtual assistant in the morning, when we are asking our car for directions on our commute and when we contact customer service chat bots while shopping. Ideally, we speak in our normal voice and the devices understand and replies naturally and effortlessly. The inner workings of voice-enabled technology are complex, usually involving multi-step processes and requiring considerably computing power. 
-
-Typically, the different processing stages involved are grouped into three parts: 
+Conversational AI is the field that works to bring about new ways of how humans and technology interact using speech. Or, commerically speaking, the field that enables and enhances user experiences of voice-enabled products. Part of this is to create experiences that make the user feel as if s/he is talking to a human. Voice-enabled technology becomes part of our life when we are woken up by a virtual assistant in the morning, when we are asking our car for directions on our commute and when we contact customer service chat bots while shopping. Ideally, we speak in our normal voice and the devices understand and replies naturally and effortlessly. The inner workings of voice-enabled technology are complex, usually involving multi-step processes and requiring considerably computing power. Typically, the different processing stages involved are grouped into three parts: 
 
     1. Automatic Speech Recognitions (ASR)
     2. Natural Language Processing (NLP) or Natural Language Understanding (NLU)
@@ -24,18 +22,37 @@ Typically, the different processing stages involved are grouped into three parts
 </figure>
 
 
-This typical conceptualization of a conversational AI pipeline suggest that the pipeline consists of three parts. A recognition part where speech is translated into text. A processing part where a certain task is fulfilled, such as machine translation or query search. And a voice production part that communciates the output of the process back to the user.
+This typical conceptualization of a conversational AI pipeline suggest that the pipeline consists of three parts. A recognition part where speech is translated into text. A processing part where a certain task is fulfilled, such as machine translation, seq-to-seq question answering or query search. And a voice production part that communciates the output of the process back to the user.
 
 %%UNDER CONSTRUCTION
 CA critique
 this ist he first part whenre the CA person would say
+
+transcription is research
+word level transcription is a reduction of utterances to some information. instead of transduction or translation
+
+a lot is lost in the process and the subtitle-like transcript is certainly not an ideal basis to find out WHY THIS NOW.
+This is why CA has developed another format of transcribing talk that is better at capturing how human speak in natural talk.
  (Bolden 2015)
+ 
+ conclusion certainly better representations are needed to do more things with speech input. But before getting there , a closr look at the current state of ASR.
+
+#### Automatic speech recognition: state of the art
 
 
+<br />
+<figure>
+  <figcaption>Figure 1: A typical ASR pipeline design. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
+  <img src="figure2.png" alt="Figure1" style="width:100%">
+</figure>
+
+Progress in the field has been substantial but a lot more is needed is to be done
 
 ## Getting computers to do conversation analysis
 
 %% UNDER CONSTRUCTION
+
+conversation analysis is both the scientific study of talk. Done by a professional who is arguably better at this than the average person. But conversation analysis also refers to the on-line analysis of the talk of our interloctutors as part of human conversation. We are all lay conversation analyst in this sense. This is also sometimes referred to as "mind reading" - the abilities and the awareness of human conversationalists to accurately infer what their interlocutors are doing during talk, where they are as part of the unfolding of sequences of talk and to more or less accurately guess how their interlocutors feel.
 
 specialist ASR for specialist NLU modules such as sentiment, emotion and stance detection, phonetic asr (microsoft speech-to-phone link)
 
