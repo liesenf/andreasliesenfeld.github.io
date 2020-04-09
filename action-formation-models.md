@@ -10,6 +10,21 @@ This blog aims to get two groups of people talking to each other more. The peopl
 
 Conversational AI is the field that works to bring about new ways of how humans and technology interact using speech. Or, commerically speaking, the field that enables and enhances user experiences of voice-enabled products. Part of this is to create experiences that make the user feel as if s/he is talking to a human. Voice-enabled technology becomes part of our life when we are woken up by a virtual assistant in the morning, when we are asking our car for directions on our commute and when we contact customer service chat bots while shopping. Ideally, we speak in our normal voice and the devices understand and replies naturally and effortlessly. The inner workings of voice-enabled technology are complex, usually involving multi-step processes and requiring considerably computing power. 
 
+Typically, the different processing stages involved are grouped into three parts: 
+
+  1. Automatic Speech Recognitions (ASR)
+  2. Natural Language Processing (NLP) or Natural Language Understanding (NLU)
+  3. Text-to-Speech (TTS) with voice synthesis
+ 
+ The first stage is speech recognition, the conversion of human speech input into subtitle-like transcriptions. The second is natural language processing and understanding. The stage at which a variety of modules further processes the ASR transcription, usually by interacting with databases or web services. For instance, translating the input into another language or performing a web search. The last stage, TTS, is the technology in charge of producing synthesized voice-output back the user. See Figure 1 for an overview of this three-stage process.
+
+<p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
+
+
+fsdf
+sdf
+sdfsdgs
+
 ## Getting computers to do conversation analysis
 
 %% UNDER CONSTRUCTION
