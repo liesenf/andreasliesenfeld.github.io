@@ -2,7 +2,19 @@
 layout: default
 ---
 
-# Notes on developing dialog systems and voice assistant tools
+# What is conversational AI and what is conversation analysis?
+
+This blog aims to get two groups of people talking to each other. The people that work in the field of conversational AI and speech processing - all the engineers and computer scientist that have an interest to enable humans to interact more naturally and extensively with technology using speech. And those that work in converasation analysis, the scientific study of talk. Based on their shared interest, the scientists and engineers of talk surely have a lot to talk about. It just seems that both communities are not as connected as one might think. Both fields have their own scientific conferences and publication venues. And both professions require a different skill set, one arguably more technical and the other more theoretical. This blog hopefully contributes to spark the interest of the speech technologist and the conversation analyst in each other's work.
+
+## The quest for more natural dialogs between humans and technology 
+
+%% UNDER CONSTRUCTION
+
+## Getting computers to do conversation analysis
+
+%% UNDER CONSTRUCTION
+
+## Principles of speech technology and system design
 
 
 The development of speech technology is guided by the following principles (Gillis et al. 2009):
