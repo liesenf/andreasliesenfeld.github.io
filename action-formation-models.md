@@ -16,16 +16,21 @@ Typically, the different processing stages involved are grouped into three parts
   2. Natural Language Processing (NLP) or Natural Language Understanding (NLU)
   3. Text-to-Speech (TTS) with voice synthesis
  
- The first stage is speech recognition, the conversion of human speech input into subtitle-like transcriptions. The second is natural language processing and understanding. The stage at which a variety of modules further processes the ASR transcription, usually by interacting with databases or web services. For instance, translating the input into another language or performing a web search. The last stage, TTS, is the technology in charge of producing synthesized voice-output back the user. See Figure 1 for an overview of this three-stage process.
+ The first stage is speech recognition, the conversion of human speech input into subtitle-like transcriptions. The second is natural language processing and understanding. The stage at which a variety of modules further processes the ASR transcription, usually by interacting with databases or web services. For instance, translating the input into another language or performing a web search. The last stage, TTS, is the technology in charge of producing synthesized voice-output back the user.
 
 <figure>
   <img src="figure1.png" alt="Figure1" style="width:100%">
   <figcaption>Figure 1 - A typical conversational AI pipeline as a three-stage process. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
 </figure>
 
-fsdf
-sdf
-sdfsdgs
+This typical conceptualization of a conversational AI pipeline suggest that the pipeline consists of three parts. A recognition part where speech is translated into text. A processing part where a certain task is fulfilled, such as machine translation or query search. And a voice production part that communciates the output of the process back to the user.
+
+%%UNDER CONSTRUCTION
+CA critique
+this ist he first part whenre the CA person would say
+ (Bolden 2015)
+
+
 
 ## Getting computers to do conversation analysis
 
@@ -99,6 +104,8 @@ Alishahi, A., 2010. Computational modeling of human language acquisition. Synthe
 Allen, J.F., 1983. Recognizing intentions from natural language utterances. Computational models of discourse, pp.107-166.
 
 Allen, J., 1995. Natural language understanding. Pearson.
+
+Bolden, G. B., 2015. Transcribing as research:“manual” transcription and conversation analysis. Research on Language and Social Interaction, 48(3), 276-280.
 
 Carberry, S., 1983, August. Tracking User Goals in an Information-Seeking Environment. In AAAI (pp. 59-63).
 
