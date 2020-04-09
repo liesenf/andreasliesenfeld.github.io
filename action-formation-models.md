@@ -24,6 +24,8 @@ Typically, the different processing stages involved are grouped into three parts
 </figure>
 <br />
 
+<br />
+
 This typical conceptualization of a conversational AI pipeline suggest that the pipeline consists of three parts. A recognition part where speech is translated into text. A processing part where a certain task is fulfilled, such as machine translation or query search. And a voice production part that communciates the output of the process back to the user.
 
 %%UNDER CONSTRUCTION
