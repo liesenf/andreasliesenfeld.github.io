@@ -8,7 +8,7 @@ This blog aims to get two groups of people talking to each other more. The peopl
 
 ## The quest for more natural dialogs between humans and technology 
 
-%% UNDER CONSTRUCTION
+Conversational AI is the field that works to bring about new ways of how humans and technology interact using speech. Or, commerically speaking, the field that enables and enhances user experiences of voice-enabled products. Part of this is to create experiences that make the user feel as if s/he is talking to a human. Voice-enabled technology becomes part of our life when we are woken up by a virtual assistant in the morning, when we are asking our car for directions on our commute and when we contact customer service chat bots while shopping. Ideally, we speak in our normal voice and the devices understand and replies naturally and effortlessly. The inner workings of voice-enabled technology are complex, usually involving multi-step processes and requiring considerably computing power. 
 
 ## Getting computers to do conversation analysis
 
