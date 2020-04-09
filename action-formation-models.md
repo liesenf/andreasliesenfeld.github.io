@@ -12,9 +12,9 @@ Conversational AI is the field that works to bring about new ways of how humans 
 
 Typically, the different processing stages involved are grouped into three parts: 
 
-  1. Automatic Speech Recognitions (ASR)
-  2. Natural Language Processing (NLP) or Natural Language Understanding (NLU)
-  3. Text-to-Speech (TTS) with voice synthesis
+    1. Automatic Speech Recognitions (ASR)
+    2. Natural Language Processing (NLP) or Natural Language Understanding (NLU)
+    3. Text-to-Speech (TTS) with voice synthesis
  
  The first stage is speech recognition, the conversion of human speech input into subtitle-like transcriptions. The second is natural language processing and understanding. The stage at which a variety of modules further processes the ASR transcription, usually by interacting with databases or web services. For instance, translating the input into another language or performing a web search. The last stage, TTS, is the technology in charge of producing synthesized voice-output back the user.
 <br />
