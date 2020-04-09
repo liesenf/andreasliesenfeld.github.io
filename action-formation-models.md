@@ -18,7 +18,6 @@ Typically, the different processing stages involved are grouped into three parts
  
  The first stage is speech recognition, the conversion of human speech input into subtitle-like transcriptions. The second is natural language processing and understanding. The stage at which a variety of modules further processes the ASR transcription, usually by interacting with databases or web services. For instance, translating the input into another language or performing a web search. The last stage, TTS, is the technology in charge of producing synthesized voice-output back the user. See Figure 1 for an overview of this three-stage process.
 
-<p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 <figure>
   <img src="figure1.png" alt="Figure1" style="width:100%">
   <figcaption>Figure 1 - A typical conversational AI pipeline as a three-stage process. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
