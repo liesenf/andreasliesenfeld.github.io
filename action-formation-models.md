@@ -21,7 +21,7 @@ Typically, the different processing stages involved are grouped into three parts
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 <figure>
   <img src="figure1.png" alt="Figure1" style="width:100%">
-  <figcaption>Figure 1 - Overview of a typical conversational AI pipeline. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
+  <figcaption>Figure 1 - A typical conversational AI pipeline as a three-stage process. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
 </figure>
 
 fsdf
