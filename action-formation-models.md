@@ -62,7 +62,7 @@ or:
 
        Y Y H H E E L L O O O O 
 
-Next, a decoder with a language model estimates what word matches the character series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from the above series of single characters. Depending on the product, the words can then be further buffered into phrases or neat sentences with punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
+Next, a decoder with a language model estimates what word matches these character series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from series of single characters like those above. Depending on the product, the words can then be further buffered into phrases or neat sentences with added punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
 
 
 ## Getting computers to do conversation analysis
