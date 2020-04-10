@@ -47,7 +47,7 @@ Automatic speech recognition (ASR) technology comsumes human voice inout and out
   <img src="figure2.png" alt="Figure1" style="width:100%">
 </figure>
 
-The first step is to record sound with some kind of capturing device, usually a microphone array that provides proprocessing capabilties such as noise suppression, echo cancellation, automatic gain control etc. These proprocessing step aim to better separate human voice input from noise and other unwanted input. Second, Mel Frequency Cepstral Coefficient (MFCC) techniques are used to capture audio spectral features in a spectrogram. By "printing" sound as spectrograms, ASR from here on essentially becomes an image recognition task. The question becomes how accurately can our system recognise characters and words in the spectrogram data? Humans can actually also learn to <a href="http://home.cc.umanitoba.ca/~robh/howto.html">read spectrograms</a>. ASR modules attempt this by passing the spectrograms to a deep learning-based acoustic model that predicts the probability of characters over a stretch of spectrogram input. This is a matching task that takes the spectrogram as input and chops it up into a series of time steps. And it takes a small set of characters from an alphabet-like list as input. For English, this might be a list from A-Z, or Pinyin syllables for Chinese. The model then predicts the character for each time step of the spectrogram. It can do that because it has been trained on large datasets (e.g. Librispeech, WSJ ASR corpus or the Google Audio set) that consist of hours of audio with aligned transcripts. The output is a series of characters aligned to the time steps of the spectogram input. 
+The first step is to record sound with some kind of capturing device, usually a microphone array that provides proprocessing capabilties such as noise suppression, echo cancellation, automatic gain control etc. These proprocessing step aim to better separate human voice input from noise and other unwanted input. Second, Mel Frequency Cepstral Coefficient (MFCC) techniques are used to capture audio spectral features in a spectrogram. By "printing" sound as spectrograms, ASR from here on essentially becomes an image recognition task. The question becomes how accurately can our system recognise letters - and by extension - words or Chinese characters in the spectrogram data? Humans can actually also learn to <a href="http://home.cc.umanitoba.ca/~robh/howto.html">read spectrograms</a>. ASR modules attempt this by passing the spectrograms to a deep learning-based acoustic model that predicts the probability of characters over a stretch of spectrogram input. This is a matching task that takes the spectrogram as input and chops it up into a series of time steps. And it takes a small set of letters from an alphabet-like list as input. For English, this might be a list from A-Z, or Pinyin syllables for Chinese. The model then predicts the character for each time step of the spectrogram. It can do that because it has been trained on large datasets (e.g. Librispeech, WSJ ASR corpus or the Google Audio set) that consist of hours of audio with aligned transcripts. The output is a series of letters aligned to the time steps of the spectogram input. 
 
 <br />
 <figure>
@@ -55,14 +55,14 @@ The first step is to record sound with some kind of capturing device, usually a 
   <img src="figure3.png" alt="Figure1" style="width:100%">
 </figure>
 
-The character-by-character output of the acoustic model might look like this:
+The letter-by-letter output of the acoustic model might look like this:
 
        H H E E E L L L O O O O O O
 or: 
 
        Y Y H H E E L L O O O O 
 
-Next, a decoder with a language model estimates what word matches these character series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from series of single characters like those above based on coocurrence patterns. Depending on the product, the words can then be further buffered into phrases or neat sentences with added punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
+Next, a decoder with a language model estimates what word matches these letter series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from series of single letters like those above based on coocurrence patterns. Depending on the product, the words can then be further buffered into phrases or neat sentences with added punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
 
 #### Character sets and language models as limitations
 
