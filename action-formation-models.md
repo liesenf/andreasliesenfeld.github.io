@@ -51,7 +51,7 @@ The first step is to record sound with some kind of capturing device, usually a 
 
 <br />
 <figure>
-  <figcaption>Figure 3: Step-wise estimation of characters from spectrogram. (Credit: https://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)</figcaption>
+  <figcaption>Figure 3: Step-wise estimation of characters from spectrogram. (Credit: cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)</figcaption>
   <img src="figure3.png" alt="Figure1" style="width:100%">
 </figure>
 
@@ -62,9 +62,8 @@ or:
 
        Y Y H H E E L L O O O O 
 
-The next step matches this output with words in a large corpus of the target language called a language model. We get "Hello" and "Yellow" instead of a series of single characters. 
+Next, a decoder with a language model estimates what word matches the character series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from the above series of single characters. Depending on the product, the words can then be further buffered into phrases or neat sentences with punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
 
-Progress in the field has been substantial but a lot more is needed is to be done
 
 ## Getting computers to do conversation analysis
 
