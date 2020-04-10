@@ -39,13 +39,17 @@ This is why CA has developed another format of transcribing talk that is better 
 
 #### Automatic speech recognition: state of the art
 
-Automatic speech recognition (ASR) technology comsumes human voice inout and outputs readable text, usually in the form of subtitle-like tanscriptions of talk. ASR is a key step in conversational AI pipelines because any further processing down the line is conducted on the basis of this output. The ability of ASR modules to produce these subtitles has siginificantly increased in recent years as deep learning has replaced other statistical methods such as Hidden Markov Models or Gaussian Mixture Models. Popular current ASR modules include Deepspeech, Wav2letter, Listen-Attend-Spell and Jasper. They all fall into the category of end-to-end ASR systems and typically work something like this: The first step is to use Mel Frequency Cepstral Coefficient (MFCC) techniques to capture audio spectral features in a spectrogram. By "printing" sound as spectrograms, audio processing essentially becomes a picture processing task.
+Automatic speech recognition (ASR) technology comsumes human voice inout and outputs readable text, usually in the form of subtitle-like tanscriptions of talk. ASR is a key step in conversational AI pipelines because any further processing down the line is conducted on the basis of this output. The ability of ASR modules to produce these subtitles has siginificantly increased in recent years as deep learning has replaced other statistical methods such as Hidden Markov Models or Gaussian Mixture Models. Popular current ASR modules include Deepspeech, Wav2letter, Listen-Attend-Spell and Jasper. They all fall into the category of end-to-end ASR systems and typically work something like this: 
 
 <br />
 <figure>
   <figcaption>Figure 1: A typical ASR pipeline design. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
   <img src="figure2.png" alt="Figure1" style="width:100%">
 </figure>
+
+The first step is to record sound with some kind of capturing device, usually a microphone array that provides proprocessing capabilties such as noise suppression, echo cancellation, automatic gain control etc. These proprocessing step aim to better separate human voice input from noise and other unwanted input. Second, Mel Frequency Cepstral Coefficient (MFCC) techniques are used to capture audio spectral features in a spectrogram. By "printing" sound as spectrograms, ASR from here on essentially becomes an image recognition task. Next, the spectrograms are passed on to a deep learning-based acoustic model that predicts the probability of characters over a stretch of spectrogram input. In more details, this is a matching task that takes the spectrogram as input and chops it up into a series of time steps. And it takes a small set of characters from an alphabet-like list as input. For English, this might be a list from A-Z, or, for Chinese, pinyin syllables. The model then predicts the character for each time step of the spectrogram. It can do that because it has been trained on large datasets (e.g. Librispeech, WSJ ASR corpus or the Google Audio set) that consist of hours of audio with aligned transcripts similar to
+
+Example of this output from slides...
 
 Progress in the field has been substantial but a lot more is needed is to be done
 
