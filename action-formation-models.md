@@ -55,7 +55,7 @@ The first step is to record sound with some kind of capturing device, usually a 
   <img src="figure3.png" alt="Figure1" style="width:100%">
 </figure>
 
-The character-by-characte output of the acoustic model might look like this:
+The character-by-character output of the acoustic model might look like this:
 
        H H E E E L L L O O O O O O
 or: 
