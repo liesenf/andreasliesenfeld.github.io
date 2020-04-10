@@ -51,7 +51,7 @@ The first step is to record sound with some kind of capturing device, usually a 
 
 <br />
 <figure>
-  <figcaption>Figure 3: Step-wise estimation of characters from spectrogram. (Credit: cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)</figcaption>
+  <figcaption>Figure 3: Step-wise estimation of letters from spectrogram. (Credit: cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)</figcaption>
   <img src="figure3.png" alt="Figure1" style="width:100%">
 </figure>
 
