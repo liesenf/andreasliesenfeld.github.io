@@ -47,9 +47,22 @@ Automatic speech recognition (ASR) technology comsumes human voice inout and out
   <img src="figure2.png" alt="Figure1" style="width:100%">
 </figure>
 
-The first step is to record sound with some kind of capturing device, usually a microphone array that provides proprocessing capabilties such as noise suppression, echo cancellation, automatic gain control etc. These proprocessing step aim to better separate human voice input from noise and other unwanted input. Second, Mel Frequency Cepstral Coefficient (MFCC) techniques are used to capture audio spectral features in a spectrogram. By "printing" sound as spectrograms, ASR from here on essentially becomes an image recognition task. Next, the spectrograms are passed on to a deep learning-based acoustic model that predicts the probability of characters over a stretch of spectrogram input. In more details, this is a matching task that takes the spectrogram as input and chops it up into a series of time steps. And it takes a small set of characters from an alphabet-like list as input. For English, this might be a list from A-Z, or, for Chinese, pinyin syllables. The model then predicts the character for each time step of the spectrogram. It can do that because it has been trained on large datasets (e.g. Librispeech, WSJ ASR corpus or the Google Audio set) that consist of hours of audio with aligned transcripts similar to
+The first step is to record sound with some kind of capturing device, usually a microphone array that provides proprocessing capabilties such as noise suppression, echo cancellation, automatic gain control etc. These proprocessing step aim to better separate human voice input from noise and other unwanted input. Second, Mel Frequency Cepstral Coefficient (MFCC) techniques are used to capture audio spectral features in a spectrogram. By "printing" sound as spectrograms, ASR from here on essentially becomes an image recognition task. Next, the spectrograms are passed on to a deep learning-based acoustic model that predicts the probability of characters over a stretch of spectrogram input. In more details, this is a matching task that takes the spectrogram as input and chops it up into a series of time steps. And it takes a small set of characters from an alphabet-like list as input. For English, this might be a list from A-Z, or, for Chinese, pinyin syllables. The model then predicts the character for each time step of the spectrogram. It can do that because it has been trained on large datasets (e.g. Librispeech, WSJ ASR corpus or the Google Audio set) that consist of hours of audio with aligned transcripts. The output is a series of characters aligned to the time steps of the spectogram input. 
 
-Example of this output from slides...
+<br />
+<figure>
+  <figcaption>Figure 3: Step-wise estimation of characters from spectrogram. (Credit: https://cs.stanford.edu/~acoates/ba_dls_speech2016.pdf)</figcaption>
+  <img src="figure3.png" alt="Figure1" style="width:100%">
+</figure>
+
+The character-by-characte output of the acoustic model might look like this:
+
+       H H E E E L L L O O O O O O
+or: 
+
+       Y Y H H E E L L O O O O 
+
+The next step matches this output with words in a large corpus of the target language called a language model. We get "Hello" and "Yellow" instead of a series of single characters. 
 
 Progress in the field has been substantial but a lot more is needed is to be done
 
