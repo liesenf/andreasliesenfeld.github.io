@@ -75,7 +75,7 @@ proper noun problem
 
 %% UNDER CONSTRUCTION
 
-## Entry #2:Getting computers to do conversation analysis
+## Entry #2: Getting computers to do conversation analysis
 
 %% UNDER CONSTRUCTION
 
