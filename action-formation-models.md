@@ -43,7 +43,7 @@ Automatic speech recognition (ASR) technology comsumes human voice inout and out
 
 <br />
 <figure>
-  <figcaption>Figure 1: A typical ASR pipeline design. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
+  <figcaption>Figure 2: A typical ASR pipeline design. (Credit: developer.nvidia.com/conversational-ai)</figcaption>
   <img src="figure2.png" alt="Figure1" style="width:100%">
 </figure>
 
@@ -62,7 +62,16 @@ or:
 
        Y Y H H E E L L O O O O 
 
-Next, a decoder with a language model estimates what word matches these character series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from series of single characters like those above. Depending on the product, the words can then be further buffered into phrases or neat sentences with added punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
+Next, a decoder with a language model estimates what word matches these character series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from series of single characters like those above based on coocurrence patterns. Depending on the product, the words can then be further buffered into phrases or neat sentences with added punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
+
+#### Character sets and language models as limitations
+
+chracter sets and non-lexical utterances
+oov 
+zipf distributions and 
+proper noun problem
+
+#### The Tchaikovsky problem
 
 %% UNDER CONSTRUCTION
 
@@ -75,7 +84,6 @@ conversation analysis is both the scientific study of talk. Done by a profession
 specialist ASR for specialist NLU modules such as sentiment, emotion and stance detection, phonetic asr (microsoft speech-to-phone link)
 
 ## Principles of speech technology and system design
-
 
 The development of speech technology is guided by the following principles (Gillis et al. 2009):
 
@@ -90,7 +98,7 @@ As for dialog systems, the task of interpreting and generating natual language i
 
 The modules are often organized as part of a sequential architecture where the different modules are accessed in sequence and the output of one module is directly input into the next module. Recently, more interactive architectures have also gained popularity where the modules are not strictly accessed in a sequential fashion, but feature more links and feedback loops between different modules (i.e. distributed connectionist models). This is especially true for the syntax-semantics interface where a trend can be observed away from 'syntax first' strategies in which a syntactic parse is computed first and then fed into a semantic module. Instead, new approaches to the syntax-semantics interface enable an integration of these formely separate  modules, often drawing on cognitive grammars (see section "Framenets and Constructicons"). Noteably, this trend is a reminder that the division into modules is fact driven by design decisions based on the principles of 'problem reduction' and 'modularity', but that it is by no means garanteed that the dividing lines in such a system accurately reflect talk-in-interaction in humans. This also applies to the semantics-pragmatics interface.
 
-### Existing approaches to representing knowledge and intentions in dialog systems
+### Approaches to representing context and intentions in conversational AI
 
 An important approach to capture 'language independent knowledge structures' (i.e. knowledge beyond lexical semantics) that are relevant in dialog are <i>associative network formalisms</i> (e.g. Schank's (1972, 1975, 1980) conceptual dependency theory). The goal of this kind of formalism is to enable directed and efficient mechanisms that model inference processes based on associations (including 'causal connections') between representations grounded in linguistic form and working up across different levels of abstraction (towards modeling higher cognitive functions). This line of work is relevant to dialog systems because these formal models of knowledge representations are indespensable for developing useful symbolic natural language understanding systems that deal with meaning beyond that what is 'directly' encoded in linguistic form. In talk-in-interaction this is (1) knowledge about the intentions, plans and goals of different agents, and (2) knowledge about the preceding discourse (Schank's work and Gillis et al. 2009).
 
@@ -110,7 +118,7 @@ Building on user models (that are already challenging enough to design), <i>lang
 
 In summary, current approaches to dialog modeling combine a multitude of different frameworks, each consisting of different representation techniques such as rules, logic, frames or grammars. Orchestrated as a whole these symbollic programming constructs can achieve an unprecedented level of abstraction that allows to mimic human-like linguistic flexibility and creativity. However, due to the high level of abstraction, today's symbolic systems have become extremely complex to handle as each exception requires additional rules and processing (see scalability problem). In recent years, data-intensive machine learning techniques have been added at many levels of these systems, further increasing complexity while promising potential solutions for existing scalability and robustness problems. Generally, the dialog modeling community seems to have moved away from the description of linguistic structure per se towards a description of more 'cognitive' aspects of talk-in-interaction in the form of large associative networks (e.g. semantic webs, framenets, construction networks etc.). In line with this trend, the remainder of this post focused on describing the links between linguistic structure to processes of 'social action formation'. First, I will review existing approaches in the field, such as speech act theories and dialog act taxonomies. Then I will outline an approach to this task that conceptualizes the links between structure and social action as a multitude of fine-grained, continuous, often ambiguous and always recipient-designed processes. Finally, I will explore how these processes of <i>reflexive action formation</i> (Levinson 2013) can inform a corpus-based method for the development of representations of speech acts as tensors. 
 
-### Computational models of dialog and conversation can advance the science of talk and language use
+### Can conversational AI advance the science of talk and language use?
 
 Today, computational modeling is an established method for the investigation of linguistic theory, for testing existing theories and for proposing pausible mechanisms that are involved at all levels of language understanding and generation. In fact, computational modeling using statistical machine learning techniques has become one of the main methodologies in the study of human cognitive processes related to language, despite remaining challenges regarding the interpretability of the outcome of many of such models (Alishahi 2010). Combined with findings coming out of other fields, computational models can give us insights about which representations and processes are more plausible in the light of other empirical and experimental evidence related to the phenomenon under study. The potential contribution of this line of work is twofold, interpreting and evaluating the proposed dialog management models can help to evaluate and advance pragmatic theory, while the model may also be designed with speech technology applications in mind.
 
