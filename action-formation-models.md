@@ -64,14 +64,14 @@ or:
 
 Next, a decoder with a language model estimates what word matches these letter series. With the help of a language model (a large corpus of the target language), the decoder computes "Hello" and "Yellow" from series of single letters like those above based on coocurrence patterns. Depending on the product, the words can then be further buffered into phrases or neat sentences with added punctuation before getting sent to additional natural language processing or natural language understanding modules. To save time and computing power, decoders often rely on pretrained models such as BERT.
 
-#### Character sets and language models as limitations
-
+#### The Tchaikovsky problem
+Character sets and language models as limitations
 chracter sets and non-lexical utterances
 oov 
 zipf distributions and 
 proper noun problem
 
-#### The Tchaikovsky problem
+
 
 %% UNDER CONSTRUCTION
 
