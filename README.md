@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a computational linguist with a professional background in data science and a passion for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I develop tools for voice assistants and dialog agents. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a conversation analyst with a background in data science and a passion for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I develop tools for voice assistants and dialog agents. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
