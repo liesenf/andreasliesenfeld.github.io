@@ -2,13 +2,29 @@
 layout: default
 ---
 
-## Speech recognition for conversation design
+## Speech recognition for conversation analysis and design
 
  <i> Keywords: automatic speech recognition *** talk-in-interaction *** action and intent modeling </i>
 
 ** UNDER CONSTRUCTION **
 
 ### Introduction
+
+development of new tools that enable better conversation analysis and design. 
+
+two tools: 
+
+### ASR for conversation analysis and design
+more fine-grained voice input processing in form of specialized ASR models for non-lexical utterances, disfluencies, laughter and other elements of talk-in-interaction
+
+### dialog flow prediction
+
+prediction of adjacency pairs (question-response pairs) , TRPs and other sequencial patterns 
+
+based on seq-to-seq models of spoken and subtitle corpora 
+
+Why is this useful?
+
 
 ** UNDER CONSTRUCTION **
 
