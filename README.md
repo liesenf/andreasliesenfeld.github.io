@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a conversation analyst with a background in data science and a passion for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I develop tools for voice assistants and dialog agents. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a conversation analyst with a background in data science. I develop tools for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a> and voice bots. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Ethnomethodology">ethnomethodology</a> and <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">actor-network theory</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
@@ -11,9 +11,9 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology (system design, dialog management, NLP and ASR for voice assistants). My current work focuses on  <a href="https://liesenf.github.io/talking-chinese-characters">conversation design for voice assistants</a> and <a href="https://liesenf.github.io/beyond-words-asr">automatic speech recognition for non-lexical utterances such as laughter and disfluencies</a>. In my early-career research I have conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My main research interest is the study of human-human and human-technology interaction, combining qualitative approaches to the study of talk-in-interaction (conversation analysis and ethnomethodology) and speech technology (system design, dialog management, NLP and ASR for voice assistants). My current work focuses on developing <a href="https://liesenf.github.io/talking-chinese-characters">skills for voice bots in Chinese</a> and the development of tools that enable <a href="https://liesenf.github.io/beyond-words-asr"> better conversation design</a>. In my early-career research I have conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
-I also work as a conversation design consultant and currently write a book in this area.<br />
+I also work as a conversation design consultant in the Greater Bay Area and currently write a book on networked human-technology interaction.<br />
 
 <br />
 
