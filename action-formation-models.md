@@ -2,11 +2,22 @@
 layout: default
 ---
 
-# What is conversational AI and what is conversation analysis?
+## Entry #8: What will conversation design look like in 10 years?
+
+How to improve conversation design practice
+
+- better recognition and representation of talk, including prosody and social elements 
+- designing via voice input instead of typing, ideally preserving prosody and social elements directly 
+- templates and auto-completion,
+- auto-pilot for talk. seq-to-seq models integrated with hand-crafted conversations allow the designer to focus on higher-level (more social cognitive) elements while pattern recognition takes care of chores 
+- better toolkit for implementing and automating operational aspects of conversations such as repair, turn-taking, code-switching, greeting/good bye sequences. 
+
+
+## Entry #7: What is conversational AI and what is conversation analysis?
 
 This blog aims to get two groups of people talking to each other more. The people that work in the field of conversational AI and speech processing - all the engineers and computer scientist that have an interest to enable humans to interact more naturally and extensively with technology using speech. And those that work in conversation analysis, the scientific study of talk. Based on their shared interest, the scientists and engineers of talk surely have a lot to talk about. It just seems that both communities are not as connected as one might think. Both fields have their own scientific conferences and publication venues, and both professions require a different skill set, one arguably more technical and the other more theoretical. This blog hopes to spark the interest of the speech technologist and the conversation analyst in each other's work.
 
-## Entry #1: The quest for more natural talk between humans and voice bots 
+#### The quest for more natural talk between humans and voice bots 
 
 Conversational AI is the field that works to bring about new ways of how humans and technology interact using speech. Or, commerically speaking, the field that enables and enhances user experiences of voice-enabled products. Part of this is to create experiences that make the user feel as if s/he is talking to a human. Voice-enabled technology becomes part of our life when we are woken up by a virtual assistant in the morning, when we are asking our car for directions on our commute and when we contact customer service chatbots while shopping. Ideally, we speak in our normal voices and the devices understand and replies naturally and effortlessly. The ability to simulate human behaviour is an important part of such products. The inner workings of this type of interactive, voice-enabled technology are complex, usually involving multi-step processes and requiring considerably computing power. Typically, the different processing stages involved are grouped into three parts: 
 
@@ -75,7 +86,7 @@ proper noun problem
 
 %% UNDER CONSTRUCTION
 
-## Entry #2: Getting computers to do conversation analysis
+## Entry #6: Getting computers to do conversation analysis
 
 %% UNDER CONSTRUCTION
 
@@ -83,7 +94,7 @@ conversation analysis is both the scientific study of talk. Done by a profession
 
 specialist ASR for specialist NLU modules such as sentiment, emotion and stance detection, phonetic asr (microsoft speech-to-phone link)
 
-## Entry #3: Principles of speech technology and system design
+## Entry #5: Principles of speech technology and system design
 
 The development of speech technology is guided by the following principles (Gillis et al. 2009):
 
@@ -118,17 +129,17 @@ Building on user models (that are already challenging enough to design), <i>lang
 
 In summary, current approaches to dialog modeling combine a multitude of different frameworks, each consisting of different representation techniques such as rules, logic, frames or grammars. Orchestrated as a whole these symbollic programming constructs can achieve an unprecedented level of abstraction that allows to mimic human-like linguistic flexibility and creativity. However, due to the high level of abstraction, today's symbolic systems have become extremely complex to handle as each exception requires additional rules and processing (see scalability problem). In recent years, data-intensive machine learning techniques have been added at many levels of these systems, further increasing complexity while promising potential solutions for existing scalability and robustness problems. Generally, the dialog modeling community seems to have moved away from the description of linguistic structure per se towards a description of more 'cognitive' aspects of talk-in-interaction in the form of large associative networks (e.g. semantic webs, framenets, construction networks etc.). In line with this trend, the remainder of this post focused on describing the links between linguistic structure to processes of 'social action formation'. First, I will review existing approaches in the field, such as speech act theories and dialog act taxonomies. Then I will outline an approach to this task that conceptualizes the links between structure and social action as a multitude of fine-grained, continuous, often ambiguous and always recipient-designed processes. Finally, I will explore how these processes of <i>reflexive action formation</i> (Levinson 2013) can inform a corpus-based method for the development of representations of speech acts as tensors. 
 
-## Entry #5: Can conversational AI advance the science of talk and language use?
+## Entry #3: Can conversational AI advance the science of talk and language use?
 
 Today, computational modeling is an established method for the investigation of linguistic theory, for testing existing theories and for proposing pausible mechanisms that are involved at all levels of language understanding and generation. In fact, computational modeling using statistical machine learning techniques has become one of the main methodologies in the study of human cognitive processes related to language, despite remaining challenges regarding the interpretability of the outcome of many of such models (Alishahi 2010). Combined with findings coming out of other fields, computational models can give us insights about which representations and processes are more plausible in the light of other empirical and experimental evidence related to the phenomenon under study. The potential contribution of this line of work is twofold, interpreting and evaluating the proposed dialog management models can help to evaluate and advance pragmatic theory, while the model may also be designed with speech technology applications in mind.
 
-## Entry #6: The Language as Complex Adaptive Systems (CAS) paradigm
+## Entry #2: The Language as Complex Adaptive Systems (CAS) paradigm
 
 Introductory readings on Complex Adaptive Systems and their relation to talk-in-interaction:
 
 <a href="http://cnl.psych.cornell.edu/pubs/2009-LACAS-pos-LL.pdf">Position paper</a> by Clay Beckner, Nick C. Ellis, Richard, Blythe John Holland, Joan Bybee, Jinyun Ke, Morten H. Christiansen, Diane Larsen-Freeman, William Croft and Tom Schoenemann.
 
-## Entry #7: Symbol grounding problem revisited
+## Entry #1: Symbol grounding problem revisited
 
 What can be learned using today’s machine learning methods?
 
