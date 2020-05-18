@@ -11,9 +11,9 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of human-human and human-technology interaction, exploring how building blocks of talk can be described and how we use them to do things. My current work focuses on developing <a href="https://liesenf.github.io/talking-chinese-characters">frame-based voice bot skills and ecosystems</a> and the development of tools that enable <a href="https://liesenf.github.io/beyond-words-asr">conversation design</a>. In my early-career research I have conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My main research interest is the study of human-human and human-technology interaction. I explore how building blocks of talk can be described by humans and computers. And how both use them to do things. My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">frame-based voice bot skills and ecosystems</a> and the development of tools that enable <a href="https://liesenf.github.io/beyond-words-asr">conversation design</a>. In my early-career research I have conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
-I also work as a conversation design consultant in the Greater Bay Area and currently write a book on networked human-technology interaction.<br />
+I also work as a conversation design consultant in the Greater Bay Area and currently write a book on the relation of human intelligence and data.<br />
 
 <br />
 
