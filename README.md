@@ -2,7 +2,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a conversation analyst with a background in data science. I develop tools for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a> and voice bots. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a conversation analyst with a background in data science. I develop tools for <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a> and voice bots. I also write about language resources and human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
@@ -11,7 +11,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My main research interest is the study of human-human and human-technology interaction. I explore how building blocks of talk can be described by humans and computers. And how both use them to do things. My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">frame-based voice bot skills and ecosystems</a> and the development of tools that enable <a href="https://liesenf.github.io/beyond-words-asr">conversation design</a>. In my early-career research I have conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My main research interest is human-technology interaction. I explore how humans use language to do things with computers and how the building blocks that enable such activities can be described and designed. How can human speech, language structure and verbal behaviour be represented computationally, quantified, processed and applied back to user interfaces? My core interest is the de- and re-contextualization of language structure that enables technology to interact with users in novel ways. What language representations and resources are needed to enable more extensive and natural interactions? My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">frame-based spoken language understanding in voice bots</a> and the development of tools that enable <a href="https://liesenf.github.io/beyond-words-asr">conversation design</a>. In my early-career research I have conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
 I also work as a conversation design consultant in the Greater Bay Area and currently write a book on the relation of human intelligence and data.<br />
 
