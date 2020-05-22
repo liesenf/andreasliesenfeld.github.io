@@ -12,7 +12,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
 <b>Research:</b> <br>
 My research interests originate in the study of human-human conversation and story-telling based on video-recordings. Then I became interested in how voice bots can participate in these activities. How can we design voice user interfaces that can hold up their end of conversations? Increasingly, I am also interested in speech processing to detect and model various aspects of conversational and social intelligence such as stance, rapport and humor. What representations, resources, and processing pipelines would enable voice bots to interact with humans in more human-like ways? 
-My current work focuses on the <a href="https://liesenf.github.io/talking-chinese-characters">evaluation of frame-based voice user interfaces</a> and the development of tools to advance <a href="https://liesenf.github.io/beyond-words-asr">conversation design</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My current work focuses on the <a href="https://liesenf.github.io/talking-chinese-characters">evaluation of voice user interfaces</a> and the development of <a href="https://liesenf.github.io/beyond-words-asr">tools to advance conversation design</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
 I also work as a conversation design consultant in the Greater Bay Area and currently write a book chapter on crowd-sourcing dialogs for voice technology.<br />
 
