@@ -20,7 +20,7 @@ I also work as a conversation design consultant in the Greater Bay Area and curr
 
 <br />
 
-My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 0.<br />
+My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is <strike>0</strike> 4.<br />
 <br />
 <b>Experience:</b> <br>
 Postdoctoral Research Fellow, Linguistics Theory and Language Technology group (<a href="http://llt.cbs.polyu.edu.hk/">LTT</a>), The Hong Kong Polytechnic University, Hong Kong.<br>
