@@ -4,7 +4,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a computational linguist with a background in conversation analysis. I develop tools for voice bots and <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a>. I also write about human-technology interaction inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a conversation analyst with background in data science. I study how humans interact with voice-interactive technology and write about <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a> inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
@@ -14,7 +14,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
 <b>Research:</b> <br>
 My research interests originate in the study of human-human conversation and story-telling based on video-recordings. Then I became interested in how voice bots can participate in these activities. What theoretical and computational tools do we need to build voice user interfaces that can hold up their end of conversations? Increasingly, I am also interested in speech processing to detect and model various aspects of conversational and social intelligence such as stance, rapport and humor. What representations, pipelines and tools would enable us to build voice bots that interact with humans in more human-like ways? 
-My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">conversational interface design</a> and the development of <a href="https://liesenf.github.io/beyond-words-asr">tools to advance user modeling</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">conversational interface design</a> and the development of <a href="https://liesenf.github.io/beyond-words-asr">tools for user modeling</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
 I also work as a conversation design consultant in the Greater Bay Area and currently write a book chapter on crowd-sourcing talk for voice technology.<br />
 
