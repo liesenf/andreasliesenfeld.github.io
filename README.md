@@ -4,7 +4,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a conversation analyst with a background in data science. I study how humans interact with voice-interactive technology inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>. I also write about how social scientific theories, software engineering, and <a href="https://chatbotslife.com/what-is-conversation-design-4cfe7ed200ea">conversation design</a> are used by tech companies to build "Conversational AI". Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a computational linguist with a background in conversation analysis. I study how people interact with voice-interactive technologies as well as how other people build them. Inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>, I also write about how talk can be studied scientifically and modelled computationally. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
