@@ -4,7 +4,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a computational linguist with a background in conversation analysis. I study how people interact with voice technologies as well as how people build them. Inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>, I also write about how talk can be studied scientifically and modelled computationally. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a conversation analyst with a background in data science. I study how people and computers work together to produce and use voice-interactive technology. Inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>, I also write about how talk can be studied scientifically and modelled computationally. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
@@ -13,10 +13,10 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 <br />
 
 <b>Research:</b> <br>
-My research interests originate in the study of human-human conversation and story-telling based on video-recordings. Then I became interested in how voice bots can participate in these activities. What theoretical and computational tools do we need to build voice user interfaces that can hold up their end of conversations? Increasingly, I am also interested in speech processing to detect and model various aspects of conversational and social intelligence such as stance, rapport and humor. What representations, pipelines and tools would enable us to build voice bots that interact with humans in more human-like ways? 
-My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">conversational interface design</a> and the development of <a href="https://liesenf.github.io/beyond-words-asr">tools for user modeling</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My research interests originate in the study of human-human conversation and story-telling based on video-recordings. Then I became interested in how people try to build voice bots that can participate in these activities. What theoretical and computational tools do we need to build voice user interfaces that can hold up their end of conversations? Increasingly, I am also interested in speech processing to detect and model various aspects of conversational and social intelligence such as stance, rapport and humor. What tools, pipelines, and representations would enable us to build voice bots that interact with humans in more useful ways? 
+My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">unpacking how conversation designers and engineers build voice bots</a> and the development of <a href="https://liesenf.github.io/beyond-words-asr">tools for user modeling</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
-I also work as a conversation design consultant in the Greater Bay Area and currently write a book chapter on crowd-sourcing talk for voice technology.<br />
+I also work as a conversation design consultant in the Greater Bay Area and currently write a book chapter on crowd-sourcing speech for voice technology.<br />
 
 <br />
 
