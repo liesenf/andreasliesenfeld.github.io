@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Talking (about) Chinese Characters
+## The limits of automation in Conversational AI
 
 
 
- <i> Keywords: voice bot development *** conversation design *** conversational user interface </i>
+ <i> Keywords: human-computer interaction *** voice bot development *** conversational user interface </i>
 
  
 We develop a voice assistant skill that helps the user specify Chinese characters in personal names through dialog. In natural conversation this task arises when speakers want to know how the name of a person is written. Which characters the speaker is referring to can often not be directly inferred from the pronunciation of the name due to the large number of homophones in Mandarin Chinese personal names. Names can also contain a large number of possible, sometimes rare, characters, a few hundred possible pronunciations need to be mapped to several thousand possible characters. This makes modeling the capacity to specify Chinese characters through dialog a challenging task. The aim of this project of the <a href="http://llt.cbs.polyu.edu.hk/">PolyU Linguistics Theory and Language Technology (LTT) group</a> in Hong Kong is to develop a bot skill that is able to specify characters through a conversational interface with the user. 
