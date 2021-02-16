@@ -11,12 +11,16 @@ How do we conceive of the world? What is the structure and composition of our co
 
 ### Related publications:
 
-Towards automatic extraction of frames and their features from text and talk: <a href="https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper298.pdf">Extracting construction networks from Cantonese speech corpora using clustering algorithms</a>; <a href="https://clsw2020.lt.cityu.edu.hk/">Profiling Chinese cause-effect constructions with rang (讓), shi (使) and ling (令) using frame semantic features</a>
+Towards automatic extraction of frames and their features from text and talk: 
+<a href="https://www.degruyter.com/document/doi/10.1515/cllt-2020-0027/html">Profiling Chinese causative constructions with rang (讓), shi (使) and ling (令) using frame semantic features</a>;
+<a href="https://www.birmingham.ac.uk/Documents/college-artslaw/corpus/conference-archives/2017/general/paper298.pdf">Extracting construction networks from Cantonese speech corpora using clustering algorithms</a>
 
-Formalization and processing of non-lexical utterances in dialog and conversation: <a href="https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48112&item_no=1&attribute_id=101&file_no=1
+Formalization and processing of non-lexical utterances in dialog and conversation: 
+<a href="https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48112&item_no=1&attribute_id=101&file_no=1
 ">Cantonese turn-initial minimal particles: annotation of discourse-interactional functions in dialog corpora</a>
 
-Cognitive linguistic approaches to dialog parsing and tagging: <a href="https://www.aclweb.org/anthology/W17-7407.pdf
+Cognitive linguistic approaches to dialog parsing and tagging: 
+<a href="https://www.aclweb.org/anthology/W17-7407.pdf
 ">Project notes on building a conversation parser on top of a text parser: Towards a causal language tagger for spoken Chinese</a>
 
  
