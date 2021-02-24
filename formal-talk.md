@@ -38,7 +38,7 @@ Laughter can format a spectrum of action only sometimes related to humor. Howeve
 Different levels of representaional detail serve different uses. But some aspects of accurate representaions clearly remain underexplored.
 
 
-#### Representaions beyond phonetic form: representations of meaning and function
+#### Representations beyond phonetic form: representations of meaning and function
 
  dialog flow prediction
 
