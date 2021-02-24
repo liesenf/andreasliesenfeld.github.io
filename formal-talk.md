@@ -4,13 +4,17 @@ layout: default
 
 ## Formal representations of talk for language technology
 
- <i> Keywords: theoretical computational linguistics *** NLP pipelines *** action and intent modeling </i>
+ <i> Keywords: theoretical computational linguistics *** formalisms *** NLP pipelines </i>
 
 ** UNDER CONSTRUCTION **
 
 ### Introduction
 
-Talk is interactionally accomplished as reflexive, ongoing and orderly sequences. But computational representations of talk do not take this into account. The use of formal represenations of language is to describe various aspects of talk-in-interaction for various scientific, technological or practical purposes. That is difficult enough. This series of projects is concerned with issues surrounding representations of talk as transcriptions or spectrograms for various language technology and science applications. How are representations used as part of different application? What is the relationship of the represenation to the real thing? How can we slice the representation into useful units?
+In the real world, talk is interactionally accomplished as reflexive, ongoing sequences within turn-taking systematics. But computational representations of talk do not take much of this into account. This project aims to illuminate some consequences that this has for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. 
+
+## Reductionism
+
+Formal represenations of language link up various aspects of talk-in-interaction to symbolic representations. This meakes talk computable and enables automation for various scientific or technological purposes. Text and speech processing pipelines rely on these representations to accomplish engineering task and enable automation. What are the limits of symbolic representations as appropriate representations of talk. What about higher dimensional\vector representations? How are representations used as part of different application? What is the relationship of the represenation to the real thing? And how can we slice the representation into useful units?
 
 ### Example 1: Graphical representatations of speech: The example of automatic speech recognition (ASR)
 
