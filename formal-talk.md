@@ -12,7 +12,7 @@ layout: default
 
 Talk is interactionally accomplished as reflexive, ongoing and orderly sequences. But computational representations of talk do not take this into account. The use of formal represenations of language is to describe various aspects of talk-in-interaction for various scientific, technological or practical purposes. That is difficult enough. This series of projects is concerned with issues surrounding representations of talk as transcriptions or spectrograms for various language technology and science applications. How are representations used as part of different application? What is the relationship of the represenation to the real thing? How can we slice the representation into useful units?
 
-### Graphical representatations of speech: The example of automatic speech recognition (ASR)
+### Example 1: Graphical representatations of speech: The example of automatic speech recognition (ASR)
 
 ASR is the task of automatically mapping audio recordings to textual transcription symbols using graphical representations of speech (spectrograms). 
 
@@ -38,13 +38,18 @@ Laughter can format a spectrum of action only sometimes related to humor. Howeve
 Different levels of representaional detail serve different uses. But some aspects of accurate representaions clearly remain underexplored.
 
 
-#### Representations beyond phonetic form: representations of meaning and function
+### Example 2: Representatations of meaning and function
 
+TBC
+ 
+ NLU
+ 
  dialog flow prediction
 
 prediction of adjacency pairs (question-response pairs) , TRPs and other sequencial patterns 
 
 based on seq-to-seq models of spoken and subtitle corpora 
 
+Getting rid of intents?
 
 [back](./)
