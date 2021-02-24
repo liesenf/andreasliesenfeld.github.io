@@ -1,6 +1,6 @@
 <font color="red"> &#9733;&#9733;&#9733; <a href="https://cityuhk-lms.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8d33fa2b-ea10-4b02-bd86-abc100461cb0"> Video recording </a> of my recent talk on behavioural profiling of causative constructions in Mandarin &#9733;&#9733;&#9733; </font>
 
-<font color="red">&#9733;&#9733;&#9733; Upcoming: Looking forward to presenting at ECCA2020 this summer.&#9733;&#9733;&#9733;</font> <br />
+<font color="red">&#9733;&#9733;&#9733; Upcoming: Looking forward to presenting at CUI2021 this summer.&#9733;&#9733;&#9733;</font> <br />
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
@@ -14,7 +14,7 @@ lies0002[AT]ntu[DOT]edu[DOT]sg<br>
 
 <b>Research:</b> <br>
 My research interests originate in the study of human-human conversation and story-telling based on video-recordings. Then I became interested in how people aspire to build voice bots that can participate in these activities. What theoretical and computational tools would we need to build voice user interfaces that can hold up their end of conversations? Increasingly, I am also interested in speech processing to analyse various aspects of conversational and social intelligence such as stance, rapport, and humor. What tools, pipelines, and representations would enable us to build voice bots that interact with humans in more useful ways? 
-My current work focuses on <a href="https://liesenf.github.io/talking-chinese-characters">unpacking how conversation designers and engineers work together using NLU software to build voice bots</a>. On the side, I am also interested in developing <a href="https://liesenf.github.io/beyond-words-asr">new tools for speech processing and user modeling inspired by conversation analysis</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
+My current work focuses on <a href="https://liesenf.github.io/limits-of-automation">unpacking how conversation designers and engineers work together using NLU software to build voice bots</a>. On the side, I am also interested in developing <a href="https://liesenf.github.io/formal-talk">new tools for conversation processing and user modeling inspired by Radical Construction Grammar</a>. During grad school I conducted linguistic fieldwork in different parts of Asia, built a video corpus of Malaysian Cantonese, and worked on the development of cognitive grammars and framenets for language technology. <br />
 
 I also work as a conversation design consultant in the Greater Bay Area and currently write a book chapter on crowd-sourcing speech for voice technology.<br />
 
