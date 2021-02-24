@@ -4,7 +4,7 @@ layout: default
 
 ## Formal representations of talk for language technology
 
- <i> Keywords: theoretical computational linguistics *** formalisms *** NLP pipelines </i>
+ <i> Keywords: theoretical computational linguistics *** Gestalt psychology *** Conversation Analysis </i>
 
 ** UNDER CONSTRUCTION **
 
