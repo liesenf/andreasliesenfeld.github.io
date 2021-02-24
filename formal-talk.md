@@ -10,7 +10,7 @@ layout: default
 
 ### Introduction
 
-In the real world, talk is interactionally accomplished as reflexive, ongoing social conduct. Formal representations are designed to take some aspects of it into account as tools for the study and technology applications. Talk is more than spoken text. This project aims to illuminate some consequences that representations of talk are mere tools for learning and building. I aim to show implications of the limited means to formally represent talk for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. 
+In the real world, talk is interactionally accomplished as reflexive, ongoing social conduct. Formal representations are designed to take some aspects of it into account as tools for research and technology applications. But talk is more than spoken text. This project aims to illuminate some consequences that representations of talk are mere tools for learning and building. I aim to show implications of the limited means to formally represent talk for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. 
 
 ### Reduce, count, automate
 
