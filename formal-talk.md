@@ -10,7 +10,7 @@ layout: default
 
 ### Introduction
 
-In the real world, talk is interactionally accomplished as reflexive, ongoing sequences within turn-taking systematics. But computational representations of talk do not take much of this into account. This project aims to illuminate some consequences that this has for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. 
+In the real world, talk is interactionally accomplished as reflexive, ongoing sequences within turn-taking systematics. But computational representations of talk cannot possibly take this into account. This project aims to illuminate some consequences that this has for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. 
 
 ### Reduce, count, automate
 
