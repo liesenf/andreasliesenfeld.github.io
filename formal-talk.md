@@ -30,6 +30,7 @@ Short non-lexical vocalizations such as uhs ohs ahs are often transcribed in ver
 
 Laughter can format a spectrum of action only sometimes related to humor. However, formal representions in ASR pipelines often reduce laughter to a simple tag.
 
+
 ### Towards more authentic prepresentions of verbal conduct
 
 Different levels of representaional detail serve different uses. But some aspects of accurate representaions clearly remain underexplored.
