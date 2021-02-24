@@ -10,7 +10,7 @@ layout: default
 
 ### Introduction
 
-Talk is interactionally accomplished as reflexive, ongoing and orderly sequences. But computational representations of talk do not take this into account. The use of formal represenations of language is to describe various aspects of talk-in-interaction for various scientific, technological or practical purposes, that is difficult enough. This series of projects is concerned with issues surrounding representations of talk as transcriptions or spectrograms for various language technology and science applications. How are representations used as part of different application? What is the relationship of the represenation to the real thing? How can we slice the representation into useful units for language technology applications and the study of talk?
+Talk is interactionally accomplished as reflexive, ongoing and orderly sequences. But computational representations of talk do not take this into account. The use of formal represenations of language is to describe various aspects of talk-in-interaction for various scientific, technological or practical purposes. That is difficult enough. This series of projects is concerned with issues surrounding representations of talk as transcriptions or spectrograms for various language technology and science applications. How are representations used as part of different application? What is the relationship of the represenation to the real thing? How can we slice the representation into useful units for language technology applications and the study of talk?
 
 ### Graphical representatations of speech: The example of automatic speech recognition (ASR)
 
