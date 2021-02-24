@@ -2,73 +2,46 @@
 layout: default
 ---
 
-## Speech recognition for conversation analysis and design
+## Formal representations of talk for language technology
 
- <i> Keywords: automatic speech recognition *** talk-in-interaction *** action and intent modeling </i>
+ <i> Keywords: theoretical computational linguistics *** NLP pipelines *** action and intent modeling </i>
 
 ** UNDER CONSTRUCTION **
 
 ### Introduction
 
-development of new tools that enable better conversation analysis and design. 
+Talk is interactionally accomplished as reflexive, ongoing and orderly sequences. But computational representations of talk do not take this into account. The use of formal represenations of language is to describe various aspects of talk-in-interaction for various scientific, technological or practical purposes, that is difficult enough. This series of projects is concerned with issues surrounding representations of talk as transcriptions or spectrograms for various language technology and science applications. How are representations used as part of different application? What is the relationship of the represenation to the real thing? How can we slice the representation into useful units for language technology applications and the study of talk?
 
-two tools: 
+### Graphical representatations of speech: The example of automatic speech recognition (ASR)
 
-### ASR for conversation analysis and design
-more fine-grained voice input processing in form of specialized ASR models for non-lexical utterances, disfluencies, laughter and other elements of talk-in-interaction
+ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved "human-level performance" and Youtube can automatically create captions for any video, there has been a push to focus on all the other things that humans do in conversation - beyond clean, grammatical sentences. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections?
 
-### dialog flow prediction
+### From commerical speech recognition to specialist speech recognition
+
+Current speech recognition tech does not accurately transcribe and process these types of utterances, because that is not what the systems were designed for. In fact, commercial ASR is mostly designed to filter out disfluencies and non-lexical utterances, eliminating stutters, repairs or exclamations in speech and producing clean transcripts instead of accurately capturing these properties of speech. This can pose a limitation to the further processing of speaker input in interactive voice technology such as intent, stance or emotion recognition because non-lexical utterances are often meaningful rather than accidental and can play a role in the actions that speakers formulate.
+
+Here are three example of verbal conduct that can commonly cause trouble for ASR systems:
+
+#### Minimal particles
+
+Short non-lexical vocalizations such as uhs ohs ahs are often transcribed in very course terms, collapsing a large range of variations under few tags or transcription formats. A large amount of phonetic and prosodic information is lost in such lexis or grapheme-based representations.
+
+#### Laughter
+
+Laughter can format a spectrum of action only sometimes related to humor. However, formal representions in ASR pipelines often reduce laughter to a simple tag.
+
+### Towards more authentic prepresentions of verbal conduct
+
+Different levels of representaional detail serve different uses. But some aspects of accurate representaions clearly remain underexplored.
+
+
+#### Representaions beyond phonetic form: representations of meaning and function
+
+ dialog flow prediction
 
 prediction of adjacency pairs (question-response pairs) , TRPs and other sequencial patterns 
 
 based on seq-to-seq models of spoken and subtitle corpora 
 
-Why is this useful?
-
-
-** UNDER CONSTRUCTION **
-
-
-
-### From commerical speech recognition to specialist speech recognition
-
-ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved "human-level performance" and Youtube can automatically create captions for any video, there has been a push to focus on all the other things that humans do in conversation - beyond clean, grammatical sentences. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections? Current speech recognition tech does not accurately transcribe and process these types of utterances, because that is not what the systems were designed for. In fact, commercial ASR is mostly designed to filter out disfluencies and non-lexical utterances, eliminating stutters, repairs or exclamations in speech and producing clean transcripts instead of accurately capturing these properties of speech. This can pose a limitation to the further processing of speaker input in interactive voice technology such as intent, stance or emotion recognition because non-lexical utterances are often meaningful rather than accidental and can alter the actions that speakers formulate.
-
-The aim of this 2-year project of the <a href="http://llt.cbs.polyu.edu.hk/">PolyU Linguistics Theory and Language Technology (LTT) group</a> in Hong Kong is to contribute to the development of automatic speech recognition for processing properties of real-world talk other than clean, clear words. Centered on colloquial Mandarin and Cantonese, the "Beyond words ASR" project involves both the empirical analysis of real-world conversation with a focus on developing formal models of non-lexical utterances and their incorporation with current speech recognition technology to advance the automatic transcription of additional properties of talk, beyond words.
-
-
-### Speech recognition for conversation analysis and design
-
-current speech tech is
-
-all uhs ohs ahs get the same treatment, much phonetic and prosodic information is lost in lexis or grapheme-based models
-
-laughter is also problematic because
- 
-#### Minimal particles
-
-Example 1: minimal response tokens
-
-Example 2: Ei surprise token
-
-Example 3: Repair initiators
-
-#### Laughter
-
-Example 1: Laughter and humor
-
-### Towards a more fine-grained automatic transcription of talk-in-interaction
-
-action oriented, precise but functional
-
-#### Multilayered speech recognition
-
-Quantitative inquiry (corpus-based analysis):
-<a href="https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/frequency-effects-in-language-processing/C4A2C08A0900E306078B9819D7ABF428
-">Frequency effects in language processing</a> 
-
-Link - live transcription by Google
-
-Link - Natural action processing
 
 [back](./)
