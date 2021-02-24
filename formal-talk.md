@@ -12,7 +12,7 @@ layout: default
 
 In the real world, talk is interactionally accomplished as reflexive, ongoing sequences within turn-taking systematics. But computational representations of talk do not take much of this into account. This project aims to illuminate some consequences that this has for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. 
 
-## Reductionism
+### Reduce, count, automate
 
 Formal represenations of language link up various aspects of talk-in-interaction to symbolic representations. This meakes talk computable and enables automation for various scientific or technological purposes. Text and speech processing pipelines rely on these representations to accomplish engineering task and enable automation. What are the limits of symbolic representations as appropriate representations of talk. What about higher dimensional\vector representations? How are representations used as part of different application? What is the relationship of the represenation to the real thing? And how can we slice the representation into useful units?
 
