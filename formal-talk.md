@@ -14,9 +14,11 @@ Talk is interactionally accomplished as reflexive, ongoing and orderly sequences
 
 ### Graphical representatations of speech: The example of automatic speech recognition (ASR)
 
-ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved "human-level performance" and Youtube can automatically create captions for any video, there has been a push to focus on all the other things that humans do in conversation - beyond clean, grammatical sentences. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections?
+ASR is the task of automatically mapping audio recordings to textual transcription symbols using graphical representations of speech (spectrograms). 
 
 ### From commerical speech recognition to specialist speech recognition
+
+ASR is dead, long live ASR! Now that automatic speech recognition (ASR) has achieved "human-level performance" and Youtube can automatically create captions for any video, there has been a push to focus on all the other things that humans do in conversation - beyond clean, grammatical sentences. What about the astonishing amount of "uhs", "ahs", or "ohs" that people produce in talk? What about laughter, sighs, stutters and all the other exclamations and interjections?
 
 Current speech recognition tech does not accurately transcribe and process these types of utterances, because that is not what the systems were designed for. In fact, commercial ASR is mostly designed to filter out disfluencies and non-lexical utterances, eliminating stutters, repairs or exclamations in speech and producing clean transcripts instead of accurately capturing these properties of speech. This can pose a limitation to the further processing of speaker input in interactive voice technology such as intent, stance or emotion recognition because non-lexical utterances are often meaningful rather than accidental and can play a role in the actions that speakers formulate.
 
