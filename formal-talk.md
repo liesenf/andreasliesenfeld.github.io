@@ -14,7 +14,7 @@ I began my journey in academia with studying story-telling. I noticed that no tw
 
 In the real world, talk is interactionally accomplished as reflexive, ongoing social conduct. Formal representations are designed to take some aspects of it into account as tools for research and technology applications. But talk is more than spoken text. This project aims to tease out some of the implications that this has on for the tools that are used to study and engineer talk. I aim to illuminate some implications of the limited means that we have to formally represent talk for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. I approach these questions through the empirical study of conversational corpora and NLP pipelines drawing on Conversation Analysis and Radical Construction Grammar.
 
-### Reduce, count, automate
+### Reduce, compute, automate
 
 Formal represenations of language link up various aspects of talk-in-interaction to symbolic representations. Through this, computational models become possible for various scientific or technological purposes. Text and speech processing pipelines rely on these representations to accomplish engineering tasks and enable automation. What are the limits of symbolic representations as appropriate representations of talk. What about higher-dimensional\vector representations? How are representations used as part of different application? What is the relationship of the represenation to the real thing? And how can we slice the representation into useful units?
 
