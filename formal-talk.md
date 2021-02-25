@@ -18,7 +18,7 @@ In the real world, talk is interactionally accomplished as reflexive, ongoing so
 
 Formal represenations of language link up various aspects of talk-in-interaction to symbolic representations. Through this, computational models become possible for various scientific or technological purposes. Text and speech processing pipelines rely on these representations to accomplish engineering tasks and enable automation. What are the limits of symbolic representations as appropriate representations of talk. What about higher-dimensional\vector representations? How are representations used as part of different application? What is the relationship of the represenation to the real thing? And how can we slice the representation into useful units?
 
-### Example 1: Graphical representatations of speech: The example of automatic speech recognition (ASR)
+### Example 1: From graphical to symbolic representatations of speech
 
 ASR is the task of automatically mapping audio recordings to textual transcription symbols using graphical representations of speech (spectrograms). 
 
