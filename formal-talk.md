@@ -4,7 +4,7 @@ layout: default
 
 ## Formal representations of talk for language technology
 
- <i> Keywords: ethnomethodology of formal linguistics *** Gestalt psychology *** Conversation Analysis </i>
+ <i> Keywords: ethnomethodology of computational linguistics *** Gestalt psychology *** Conversation Analysis </i>
 
 ** UNDER CONSTRUCTION **
 
