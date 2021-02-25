@@ -25,14 +25,13 @@ Transcription, either manual or automatic, is the task of mapping elements of sp
 Using machine learning methods, automatic speech recognition has become quite accurate for any transcription task where there is sufficient traning data available. Those with experience using current ASR can attest that transcribing clean, grammatical sentences works fine. But what about all the other things that humans do in conversation, such as the "uhs", "ahs", or "ohs", laughter, sighs, stutters and all the other exclamations and interjections? Transcribing such conduct is usually sidelined in current ASR because they do not add much commerical value to ASR products. But there is more. Other issues of form-function mapping become visible when looking at these small utterances that barely count as verbal conduct. Here, on the "margins of language" (Dingemanse 2017), one can see the gap between idiolect and language conventions more clearly. The "uhs", "ahs" and laughters of each speaker come with a unique footprint that is only vaguely coventionalised and that makes stable mappings between form and function across a population impossible. It turns out that both the small and large units in talk are private property of the speakers, characterized by unique variation, and ultimately resistant to formal generalization. A speaker's "ohs" and "ahs" are as hard to formalize as their long, elaborate story-telling sequences. This makes up the upper and lower boundaries of useful formalization of units in talk.
 
 
-### Other mappings: functional formalisms for Conversational AI
+### Other mappings: Formalisms for Conversational AI - symbolic natural language understanding
 
- 
- NLU
- 
- dialog flow prediction
+After computing a useful textual representation of speech input, the processing pipeline of a typical Conversational AI usually feed this representation into Natural Language Understanding (NLU) module. This is where automation beyond single turns of conversation happen. The job of the NLU module is to determine what next turn the system will synthesize in service of accomplishing a defined range of tasks, such as ordering a pizza or booking a ticket. 
 
-prediction of adjacency pairs (question-response pairs) , TRPs and other sequencial patterns 
+Task: dialog flow prediction
+
+prediction of adjacency pairs (question-response pairs) , TRPs and other sequential patterns 
 
 based on seq-to-seq models of spoken and subtitle corpora 
 
