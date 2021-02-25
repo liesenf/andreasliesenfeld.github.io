@@ -16,7 +16,7 @@ In the real world, talk is interactionally accomplished as reflexive, ongoing so
 
 ### Reduce, compute, automate
 
-Formal represenations of language link up various aspects of talk-in-interaction to symbolic representations. Through this, computational models become possible for various scientific or technological purposes. Text and speech processing pipelines rely on these representations to accomplish engineering tasks and enable automation. What are the limits of symbolic representations as appropriate representations of talk. What about higher-dimensional\vector representations? How are representations used as part of different application? What is the relationship of the represenation to the real thing? And how can we slice the representation into useful units?
+Formal represenations of language link up various aspects of talk-in-interaction to symbolic representations. Through this, computational models become possible for various scientific or technological purposes. Text and speech processing pipelines rely on these representations to accomplish engineering tasks and enable automation. What are the limits of symbolic representations as appropriate representations of talk. How are representations used as part of different application? What is the relationship of the represenation to the real thing? And how can we slice the representation into useful units?
 
 ### The basics: Transcription - from audio recordings to symbolic representatations of speech
 
