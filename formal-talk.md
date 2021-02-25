@@ -10,7 +10,7 @@ layout: default
 
 ### Introduction
 
-I began my journey in academia with studying story-telling. I noticed that no two stories that I recorded were alike and that it was impossible for speakers to repeat  a story once it was told in exactly the same way. This observation has stuck with me since I switched to be field of language technology. 
+I began my journey in academia with studying story-telling. I noticed that no two stories that I recorded were alike and that it was impossible for speakers to repeat  a story once it was told in exactly the same way. This observation has stuck with me since I switched to the field of language technology. 
 
 In the real world, talk is interactionally accomplished as reflexive, ongoing social conduct. Formal representations are designed to take some aspects of it into account as tools for research and technology applications. But talk is more than spoken text. This project aims to tease out some of the implications that this has on for the tools that are used to study and engineer talk. I aim to illuminate some implications of the limited means that we have to formally represent talk for voice technology applications, the quantitative study of talk, and the possiblity of talking machines. I approach these questions through the empirical study of conversational corpora and NLP pipelines drawing on Conversation Analysis and Radical Construction Grammar.
 
