@@ -4,7 +4,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a conversational AI researcher with a background in conversation analysis and ethnomethodology. I study how people (try to) build talking machines. Inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>, I also write about how talk can possibly be studied scientifically and modelled computationally. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a conversational AI researcher with a background in conversation analysis and ethnomethodology. I study how people (try to) build and use talking machines. Inspired by <a href="https://en.wikipedia.org/wiki/Process_philosophy">process philosophy</a>, I also write about how talk can possibly be studied scientifically and modelled computationally. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
