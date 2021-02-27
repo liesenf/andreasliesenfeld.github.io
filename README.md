@@ -1,4 +1,4 @@
-<font color="red"> &#9733;&#9733;&#9733; <a href="https://cityuhk-lms.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8d33fa2b-ea10-4b02-bd86-abc100461cb0"> Video recording </a> of my recent talk on linking frame semantics with behavioural profiling &#9733;&#9733;&#9733; </font>
+<font color="red"> &#9733;&#9733;&#9733; <a href="https://cityuhk-lms.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8d33fa2b-ea10-4b02-bd86-abc100461cb0"> Video recording </a> of my recent talk on linking frame semantics with behavioural profiling (in Mandarin) &#9733;&#9733;&#9733; </font>
 
 <font color="red">&#9733;&#9733;&#9733; Upcoming: Looking forward to presenting at CUI2021 this summer.&#9733;&#9733;&#9733;</font> <br />
 
