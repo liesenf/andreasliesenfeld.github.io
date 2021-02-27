@@ -4,7 +4,7 @@
 
 <p><img src="pic.jpg" alt="Picture" style="float:left;border:2;margin-right: 20px;">
 
-I am a conversational AI researcher using ethnomethodology and conversation analysis to study voice technology in real-world contexts. I aspire to produce useful insights for anyone who designs, builds, uses or regulates talking machines. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
+I am a Conversational AI researcher using ethnomethodology and conversation analysis to study voice technology in real-world contexts. I aspire to produce useful insights for anyone who designs, builds, uses or regulates talking machines. Late naturalist under pressure. "You must collect things for reasons you don’t yet understand." —<a href="https://www.google.com/search?q=daniel+boorstin+quotes&oq=daniel+boorstin+quotes">Daniel J. Boorstin</a> 
 <br />
 <br />
 <b>Email:</b> <br> 
